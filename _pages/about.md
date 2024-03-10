@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student studying computer science. My current reseach interest is understanding the internal mechanism of large language models. 
 
-I was previously a AI researcher at Tencent, focusing on using AI algorithms for computer security.
+I was previously an AI researcher at Tencent Keen Lab, focusing on using AI algorithms for computer security.
 
 # 🔥 News
 - *2023.09*: &nbsp;🎉🎉 I start my PhD in University of Manchester.
