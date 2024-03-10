@@ -42,7 +42,7 @@ I was previously a AI researcher at Tencent, focusing on using AI algorithms for
 
 **Zeping Yu**, Gongshen Liu \[**COLING 2018**\]
 
-# 📖 Education and Work
+# 📖 Educations
 - *2023.09 - 2024.03 (now)*, PhD student, Computer Science, University of Manchester. 
 - *2020.03 - 2022.03*, AI researcher, Tencent.
 - *2017.09 - 2020.03*, Master, Computer Science, Shanghai Jiao Tong University.
