@@ -22,24 +22,25 @@ I am a PhD student studying computer science. My current reseach interest is und
 I was previously a AI researcher at Tencent, focusing on using AI algorithms for computer security.
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 I start my PhD in the University of Manchester.
+- *2023.09*: &nbsp;🎉🎉 I start my PhD in University of Manchester.
 
 # 📝 Publications 
 
-[CodeCMR: Cross-modal retrieval for function-level binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) \[**NeurIPS 2020**\]
+[CodeCMR: Cross-modal retrieval for function-level binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
 
-**Zeping Yu**, Wenxin Zheng, Jiaqi Wang, Qiyi Tang, Sen Nie, Shi Wu
+**Zeping Yu**, Wenxin Zheng, Jiaqi Wang, Qiyi Tang, Sen Nie, Shi Wu \[**NeurIPS 2020**\]
 
 [Order matters: Semantic-aware neural networks for binary code similarity detection](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf) 
 
 **Zeping Yu**, Rui Cao, Qiyi Tang, Sen Nie, Junzhou Huang, Shi Wu \[**AAAI 2020**\]
 
-[Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation](https://www.ijcai.org/proceedings/2019/0585.pdf) \[**IJCAI 2019**\]
+[Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation](https://www.ijcai.org/proceedings/2019/0585.pdf) 
 
-**Zeping Yu**, Jianxun Lian, Ahmad Mahmoody, Gongshen Liu, Xing Xie
+**Zeping Yu**, Jianxun Lian, Ahmad Mahmoody, Gongshen Liu, Xing Xie \[**IJCAI 2019**\]
 
-[Sliced recurrent neural networks](https://arxiv.org/pdf/1807.02291.pdf) \[**COLING 2018**\]
-**Zeping Yu**, Gongshen Liu
+[Sliced recurrent neural networks](https://arxiv.org/pdf/1807.02291.pdf) 
+
+**Zeping Yu**, Gongshen Liu \[**COLING 2018**\]
 
 # 📖 Education and Work
 - *2023.09 - 2024.03 (now)*, PhD student, Computer Science, University of Manchester. 
