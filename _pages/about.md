@@ -44,6 +44,6 @@ I was previously a AI researcher at Tencent, focusing on using AI algorithms for
 
 # 📖 Educations
 - *2023.09 - 2024.03 (now)*, PhD student, Computer Science, University of Manchester. 
-- *2020.03 - 2022.03*, AI researcher, Tencent.
+- *2020.03 - 2022.03*, AI researcher, Tencent (Work).
 - *2017.09 - 2020.03*, Master, Computer Science, Shanghai Jiao Tong University.
 - *2013.09 - 2017.06*, Bachelor, Computer Science, Shanghai Jiao Tong University.
