@@ -17,22 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student studying computer science at the University of Manchester. My current research consists of three main parts. Firstly, I am interested in understanding the internal mechanisms of large language models. Secondly, I aim to design safer and more robust models based on interpretability analysis. Lastly, I hope to leverage the interpretability findings to enhance the performance of downstream tasks. I believe mechanistic interpretability is the key to AGI.
+I am a second-year PhD student at the University of Manchester (starting in September 2023). Currently, I am interested in understanding the internal mechanisms of large language models and leveraging the interpretability findings to enhance the performance of downstream tasks. I believe mechanistic interpretability is the key to AGI.
 
-I was previously an AI researcher at Tencent Keen Lab from 2020 to 2022, where I focused on using AI algorithms for computer security. I graduated from Shanghai Jiao Tong University in 2020 with a Master's degree.
+I was previously an AI researcher at Tencent from 2020 to 2022, where I focused on using AI algorithms for computer security. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, and graduated from Shanghai Jiao Tong Universityin 2017 with a Bachelor’s Degree.
 
 # 🔥 News
 
-- *2024.06*: Preprint on arxiv: [How do Large Language Models Learn In-Context? Query and Key
+- *2024.09*: My first-author paper is accepted by EMNLP 2024: [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://openreview.net/forum?id=CytotQoqNs&noteId=yO9M7VhmSm). This work studies the internal mechanism of arithmetic.
+
+- *2024.09*: My first-author paper is accepted by EMNLP 2024: [How do Large Language Models Learn In-Context? Query and Key
 Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.org/pdf/2402.02872). This work studies the internal mechanism of in-context learning.
 
-- *2024.06*: Preprint on arxiv: [Neuron-Level Knowledge Attribution in Large Language Models](https://arxiv.org/pdf/2312.12141v3). This work is about how to identify important neurons in LLMs.
+- *2024.09*: My first-author paper is accepted by EMNLP 2024: [Neuron-Level Knowledge Attribution in Large Language Models](https://arxiv.org/pdf/2312.12141v3). This work is about how to identify important neurons in LLMs.
 
 - *2024.04*: I create a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for new researchers interested in understanding the mechanism of LLMs. I plan to keep updating it, hopefully on a monthly basis, as I read new papers.
 
 - *2023.09*: I start my PhD in the University of Manchester.
 
 # 📝 Publications
+
+[Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://openreview.net/forum?id=CytotQoqNs&noteId=yO9M7VhmSm)
+
+**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
+
+[How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.org/pdf/2402.02872)
+
+**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
+
+[Neuron-Level Knowledge Attribution in Large Language Models](https://arxiv.org/pdf/2312.12141v3)
+
+**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
 
 [CodeCMR: Cross-modal retrieval for function-level binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
 
