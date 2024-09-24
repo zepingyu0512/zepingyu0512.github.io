@@ -23,7 +23,7 @@ I was previously an AI researcher at Tencent from 2020 to 2022, where I focused 
 
 # 🔥 News
 
-- *2024.09*: My first-author paper is accepted by EMNLP 2024: [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://openreview.net/forum?id=CytotQoqNs&noteId=yO9M7VhmSm). This work studies the internal mechanism of arithmetic.
+- *2024.09*: My first-author paper is accepted by EMNLP 2024: [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://arxiv.org/pdf/2409.14144). This work studies the internal mechanism of arithmetic.
 
 - *2024.09*: My first-author paper is accepted by EMNLP 2024: [How do Large Language Models Learn In-Context? Query and Key
 Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.org/pdf/2402.02872). This work studies the internal mechanism of in-context learning.
@@ -36,7 +36,7 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.o
 
 # 📝 Publications
 
-[Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://openreview.net/forum?id=CytotQoqNs&noteId=yO9M7VhmSm)
+[Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://arxiv.org/pdf/2409.14144)
 
 **Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
 
