@@ -28,7 +28,7 @@ I was previously an AI researcher at Tencent from 2020 to 2022, where I focused 
 - *2024.09*: My first-author paper is accepted by EMNLP 2024: [How do Large Language Models Learn In-Context? Query and Key
 Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.org/pdf/2402.02872). This work studies the internal mechanism of in-context learning.
 
-- *2024.09*: My first-author paper is accepted by EMNLP 2024: [Neuron-Level Knowledge Attribution in Large Language Models](https://arxiv.org/pdf/2312.12141v3). This work is about how to identify important neurons in LLMs.
+- *2024.09*: My first-author paper is accepted by EMNLP 2024: [Neuron-Level Knowledge Attribution in Large Language Models](https://arxiv.org/pdf/2312.12141). This work is about how to identify important neurons in LLMs.
 
 - *2024.04*: I create a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for new researchers interested in understanding the mechanism of LLMs. I plan to keep updating it, hopefully on a monthly basis, as I read new papers.
 
@@ -44,7 +44,7 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.o
 
 **Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
 
-[Neuron-Level Knowledge Attribution in Large Language Models](https://arxiv.org/pdf/2312.12141v3)
+[Neuron-Level Knowledge Attribution in Large Language Models](https://arxiv.org/pdf/2312.12141)
 
 **Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
 
