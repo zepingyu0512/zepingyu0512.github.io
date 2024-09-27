@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student at the University of Manchester (starting in September 2023). Currently, I am interested in understanding the internal mechanisms of large language models and leveraging the interpretability findings to enhance the performance of downstream tasks. I believe mechanistic interpretability is the key to AGI.
+I am a second-year PhD student at the University of Manchester (started in September 2023). Currently, I am interested in understanding the internal mechanisms of large language models and leveraging the interpretability findings to enhance the performance of downstream tasks and design safer models. I believe mechanistic interpretability is the key to AGI.
 
-I was previously an AI researcher at Tencent from 2020 to 2022, where I focused on using AI algorithms for computer security. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, and graduated from Shanghai Jiao Tong Universityin 2017 with a Bachelor’s Degree.
+I was previously an AI researcher at Tencent from 2020 to 2022, where I focused on using AI algorithms for computer security. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, and graduated from Shanghai Jiao Tong University in 2017 with a Bachelor’s Degree.
 
 # 🔥 News
 
@@ -47,6 +47,8 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.o
 [Neuron-Level Knowledge Attribution in Large Language Models](https://arxiv.org/pdf/2312.12141)
 
 **Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
+
+
 
 [CodeCMR: Cross-modal retrieval for function-level binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
 
