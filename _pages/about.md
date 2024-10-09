@@ -23,14 +23,14 @@ I was previously an AI researcher at Tencent from 2020 to 2022, where I focused 
 
 # 🔥 News
 
-- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/). This work studies the internal mechanism of arithmetic.
+- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/). This work explores the internal mechanism of arithmetic.
 
-- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/). This work is about how to identify important neurons in LLMs.
+- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/). This work introduces how to identify important neurons in LLMs.
 
 - *2024.09*: Our work is accepted by EMNLP 2024 (main): [How do Large Language Models Learn In-Context? Query and Key
-Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.org/pdf/2402.02872). This work studies the internal mechanism of in-context learning.
+Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.org/pdf/2402.02872). This work explores the internal mechanism of in-context learning.
 
-- *2024.04*: I create a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for new researchers interested in understanding the mechanism of LLMs. I plan to keep updating it, hopefully on a monthly basis, as I read new papers.
+- *2024.04*: I create a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for new researchers interested in understanding the mechanism of LLMs. 
 
 - *2023.09*: I start my PhD in the University of Manchester.
 
@@ -69,5 +69,5 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.o
 # 📖 Educations
 - *2023.09 - now*, PhD student, Computer Science, the University of Manchester. 
 - *2020.03 - 2022.03 (work)*, AI researcher for computer security, Tencent Keen Lab.
-- *2017.09 - 2020.03*, Master, Computer Science, Shanghai Jiao Tong University.
-- *2013.09 - 2017.06*, Bachelor, Computer Science, Shanghai Jiao Tong University.
+- *2017.09 - 2020.03*, Master, Electronics and Communications Engineering, Shanghai Jiao Tong University.
+- *2013.09 - 2017.06*, Bachelor, Information Security Engineering, Shanghai Jiao Tong University.
