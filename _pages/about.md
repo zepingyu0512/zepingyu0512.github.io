@@ -50,7 +50,7 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 
 **Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
 
------------------------------- Previous Works -------------------------------------------------
+-------------------------------------- Previous Works --------------------------------------
 
 [CodeCMR: Cross-modal retrieval for function-level binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
 
