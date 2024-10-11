@@ -28,7 +28,7 @@ I was previously an AI researcher at Tencent from 2020 to 2022, where I focused 
 - *2024.09*: Our work is accepted by EMNLP 2024 (main): [Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/). This work introduces how to identify important neurons in LLMs.
 
 - *2024.09*: Our work is accepted by EMNLP 2024 (main): [How do Large Language Models Learn In-Context? Query and Key
-Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.org/pdf/2402.02872). This work explores the internal mechanism of in-context learning.
+Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/). This work explores the internal mechanism of in-context learning.
 
 - *2024.04*: I create a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for new researchers interested in understanding the mechanism of LLMs. 
 
@@ -44,11 +44,11 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.o
 
 **Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
 
-[How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.org/pdf/2402.02872)
+[How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/)
 
 **Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
 
--------------------------------------------------------------------------------
+------------------------------ Previous Works -------------------------------------------------
 
 [CodeCMR: Cross-modal retrieval for function-level binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
 
