@@ -21,7 +21,7 @@ I am a second-year PhD student at the University of Manchester (started in Septe
 
 I was previously an AI researcher at Tencent from 2020 to 2022, where I focused on using AI algorithms for computer security. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, and graduated from Shanghai Jiao Tong University in 2017 with a Bachelor’s Degree.
 
-My current research is about how to identify the important neurons in LLMs and build the neuron-level circuits, which is useful for neuron-level model editing and LLM safety. I have explored the [neuron-level knowledge attribution](https://zepingyu0512.github.io/neuron-attribution.github.io/), [mechanism of in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), and [mechanism of arithmetic task](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/) in LLMs. Please feel free to contact me via zepingyu@foxmail.com for discussions if you are also interested in this field.
+My current research is identifying the important neurons in LLMs and building the neuron-level circuits, which is useful for neuron-level model editing and LLM safety. I have explored the [neuron-level knowledge attribution](https://zepingyu0512.github.io/neuron-attribution.github.io/), [mechanism of in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), and [mechanism of arithmetic task](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/) in LLMs. Please feel free to contact me via zepingyu@foxmail.com for discussions if you are also interested in this field.
 
 # 🔥 News
 
