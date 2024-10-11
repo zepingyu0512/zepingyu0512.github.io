@@ -21,6 +21,8 @@ I am a second-year PhD student at the University of Manchester (started in Septe
 
 I was previously an AI researcher at Tencent from 2020 to 2022, where I focused on using AI algorithms for computer security. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, and graduated from Shanghai Jiao Tong University in 2017 with a Bachelor’s Degree.
 
+Please contact me via zepingyu@foxmail.com for discussions.
+
 # 🔥 News
 
 - *2024.09*: Our work is accepted by EMNLP 2024 (main): [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/). This work explores the internal mechanism of arithmetic.
