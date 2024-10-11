@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student at the University of Manchester (started in September 2023). Currently, I am interested in understanding the internal mechanisms of large language models and leveraging the interpretability findings to enhance the performance of downstream tasks and design safer models. I believe mechanistic interpretability is the key to AGI.
+I am a second-year PhD student at the University of Manchester (started in September 2023), supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Currently, I am interested in understanding the internal mechanisms of large language models and leveraging the interpretability findings to enhance the performance of downstream tasks and design safer models. I believe mechanistic interpretability is the key to AGI.
 
 I was previously an AI researcher at Tencent from 2020 to 2022, where I focused on using AI algorithms for computer security. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, and graduated from Shanghai Jiao Tong University in 2017 with a Bachelor’s Degree.
 
-Please contact me via zepingyu@foxmail.com for discussions.
+My current research is about how to identify the important neurons in LLMs and build the neuron-level circuits, which is useful for neuron-level model editing and LLM safety. I have explored the [neuron-level knowledge attribution](https://zepingyu0512.github.io/neuron-attribution.github.io/), [mechanism of in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), and [mechanism of arithmetic task](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/) in LLMs. Please feel free to contact me via zepingyu@foxmail.com for discussions if you are also interested in this field.
 
 # 🔥 News
 
