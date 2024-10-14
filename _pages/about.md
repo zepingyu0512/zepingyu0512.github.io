@@ -27,7 +27,7 @@ I believe mechanistic interpretability is the key to AGI. Currently, I am intere
 
 **c)** Using the interpretability findings to design safer models. 
 
-My current research is identifying the important neurons in LLMs and building the neuron-level circuits, which is useful for neuron-level model editing and neuron-level LLM safety. I have explored the [neuron-level knowledge attribution](https://zepingyu0512.github.io/neuron-attribution.github.io/), [mechanism of in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), and [mechanism of arithmetic task](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/) in LLMs. Please feel free to contact me via zepingyu@foxmail.com for discussions if you are also interested in this field.
+My current research is identifying the important neurons in LLMs and building the neuron-level circuits, which is useful for neuron-level model editing and neuron-level LLM safety. I have explored the [neuron-level knowledge attribution](https://zepingyu0512.github.io/neuron-attribution.github.io/), [mechanism of in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), and [mechanism of arithmetic task](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/) in LLMs. Please feel free to contact me via zepingyu@foxmail.com for discussions.
 
 # 🔥 News
 
