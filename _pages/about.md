@@ -23,7 +23,7 @@ I believe mechanistic interpretability is the key to AGI. Currently, I am intere
 
 **a)** Understanding the internal mechanisms of large language models. 
 
-**b)** Leveraging the interpretability findings to help downstream tasks (e.g. factual knowledge, reasoning). 
+**b)** Using the interpretability findings to help downstream tasks (e.g. factual knowledge, reasoning). 
 
 **c)** Using the interpretability findings to design safer models. 
 
