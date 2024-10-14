@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student at the University of Manchester (started in September 2023), supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I was previously an AI researcher at Tencent from 2020 to 2022, where I focused on using AI algorithms for computer security. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, and in 2017 with a Bachelor’s Degree. 
+I am a second-year PhD student at the University of Manchester (started in September 2023), advised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I was previously an AI researcher at Tencent from 2020 to 2022, where I focused on using AI algorithms for computer security. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, and in 2017 with a Bachelor’s Degree. 
 
 I believe mechanistic interpretability is the key to AGI. Currently, I am interested in: 
 
