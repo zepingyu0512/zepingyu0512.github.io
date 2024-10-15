@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year PhD student at the University of Manchester (started in September 2023), advised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I was previously an AI researcher at Tencent from 2020 to 2022, where I focused on deep learning for source code and binary code. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, and in 2017 with a Bachelor’s Degree. 
 
-I believe mechanistic interpretability is the key to AGI. Currently, I am interested in: 
+I believe mechanistic interpretability is extremely essential for trustworthy AGI. Currently, I am interested in: 
 
 **a)** Understanding the internal mechanisms of large language models. 
 
