@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student at the University of Manchester (started in September 2023), advised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I was previously an AI researcher at Tencent from 2020 to 2022, where I focused on deep learning for source code and binary code. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, and in 2017 with a Bachelor’s Degree. 
+I am a second-year PhD student at the University of Manchester (started in September 2023), supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I was previously an AI researcher at Tencent from 2020 to 2022, where I focused on DL4code. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
 
 I believe mechanistic interpretability is the key to trustworthy AGI. Currently, I am interested in: 
 
@@ -27,20 +27,20 @@ I believe mechanistic interpretability is the key to trustworthy AGI. Currently,
 
 **c)** Using the interpretability findings to design safer models. 
 
-My current research is identifying the important neurons in LLMs and constructing the neuron-level internal logic chain (also named "neuron circuits"), which is useful for neuron-level model editing and neuron-level LLM safety. I have explored the [neuron-level knowledge attribution](https://zepingyu0512.github.io/neuron-attribution.github.io/), [mechanism of in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), and [mechanism of arithmetic task](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/) in LLMs. Please feel free to contact me via zepingyu@foxmail.com for discussions.
+My current research is identifying the important neurons in LLMs and constructing the neuron-level internal logic chain (also named "neuron circuits"), which is useful for neuron-level model editing and neuron-level model safety. I have explored the [neuron-level knowledge attribution](https://zepingyu0512.github.io/neuron-attribution.github.io/), [mechanism of in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), [mechanism of arithmetic task](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/) in LLMs, and [mechanism of Multimodal-LLMs in visual question answering](https://arxiv.org/pdf/2411.10950). Please feel free to contact me via zepingyu@foxmail.com for discussions.
 
 # 🔥 News
 
-- *2024.11*: New preprint: Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering. This work explores the mechanism of Llava in visual question answering. [code is here](https://github.com/zepingyu0512/llava-mechanism/tree/main) 
+- *2024.11*: New preprint: [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950). This work explores the mechanism of Llava in visual question answering. [CODE](https://github.com/zepingyu0512/llava-mechanism/tree/main) 
 
-- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/). This work explores the internal mechanism of arithmetic. [code is here](https://github.com/zepingyu0512/arithmetic-mechanism)
+- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/). This work explores the mechanism of arithmetic ability in LLMs. [CODE](https://github.com/zepingyu0512/arithmetic-mechanism)
 
-- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/). This work introduces how to identify important neurons in LLMs. [code is here](https://github.com/zepingyu0512/neuron-attribution)
+- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/). This work introduces how to identify important neurons in LLMs. [CODE](https://github.com/zepingyu0512/neuron-attribution)
 
 - *2024.09*: Our work is accepted by EMNLP 2024 (main): [How do Large Language Models Learn In-Context? Query and Key
-Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/). This work explores the internal mechanism of in-context learning. [code is here](https://github.com/zepingyu0512/in-context-mechanism)
+Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/). This work explores the mechanism of in-context learning in LLMs. [CODE](https://github.com/zepingyu0512/in-context-mechanism)
 
-- *2024.04*: I create a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for people interested in understanding the mechanism of LLMs. 
+- *2024.04*: I create a [PAPER LIST](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for people interested in understanding the mechanism of LLMs. 
 
 - *2023.09*: I start my PhD in the University of Manchester.
 
@@ -57,8 +57,6 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 [How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/)
 
 **Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
-
--------------------------------------- Previous Works --------------------------------------
 
 [CodeCMR: Cross-modal retrieval for function-level binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
 
@@ -78,6 +76,6 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 
 # 📖 Educations
 - *2023.09 - now*, PhD student, Computer Science, the University of Manchester. 
-- *2020.03 - 2022.03 (work)*, AI researcher for computer security, Tencent Keen Lab.
-- *2017.09 - 2020.03*, Master, Electronics and Communications Engineering, Shanghai Jiao Tong University.
-- *2013.09 - 2017.06*, Bachelor, Information Security Engineering, Shanghai Jiao Tong University.
+- *2020.03 - 2022.03 (work)*, DL4code, Tencent Keen Lab.
+- *2017.09 - 2020.03*, Master of Engineering, Shanghai Jiao Tong University.
+- *2013.09 - 2017.06*, Bachelor of Engineering, Shanghai Jiao Tong University.
