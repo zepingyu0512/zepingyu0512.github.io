@@ -31,14 +31,14 @@ My current research is identifying the important neurons in LLMs and constructin
 
 # 🔥 News
 
-- *2024.11*: New preprint: [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950). This work explores the mechanism of Llava in visual question answering. [CODE](https://github.com/zepingyu0512/llava-mechanism/tree/main) 
+- *2024.11*: New preprint: [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950). This work explores the mechanism of Llava in visual question answering. \[[CODE](https://github.com/zepingyu0512/llava-mechanism/tree/main)\]
 
-- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/). This work explores the mechanism of arithmetic ability in LLMs. [CODE](https://github.com/zepingyu0512/arithmetic-mechanism)
+- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/). This work explores the mechanism of arithmetic ability in LLMs. \[[CODE](https://github.com/zepingyu0512/arithmetic-mechanism)\]
 
-- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/). This work introduces how to identify important neurons in LLMs. [CODE](https://github.com/zepingyu0512/neuron-attribution)
+- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/). This work introduces how to identify important neurons in LLMs. \[[CODE](https://github.com/zepingyu0512/neuron-attribution)\]
 
 - *2024.09*: Our work is accepted by EMNLP 2024 (main): [How do Large Language Models Learn In-Context? Query and Key
-Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/). This work explores the mechanism of in-context learning in LLMs. [CODE](https://github.com/zepingyu0512/in-context-mechanism)
+Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/). This work explores the mechanism of in-context learning in LLMs. \[[CODE](https://github.com/zepingyu0512/in-context-mechanism)\]
 
 - *2024.04*: I create a [PAPER LIST](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for people interested in understanding the mechanism of LLMs. 
 
