@@ -19,7 +19,9 @@ redirect_from:
 
 I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I was previously a DL4Code AI researcher at Tencent from 2020 to 2022. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
 
-I believe mechanistic interpretability is crucial for achieving trustworthy AGI. While interpretability may be less critical when using LLMs as tools, it becomes essential if our goal is to develop AGI. Without understanding the reasoning behind a model's decisions, pursuing AGI would be extremely dangerous. My current research focuses on:
+I believe mechanistic interpretability is crucial for achieving trustworthy AGI. While interpretability may be less critical when using LLMs as tools, it becomes essential if our goal is to develop AGI. Without understanding the reasoning behind a model's decisions, pursuing AGI would be extremely dangerous. 
+
+My current research focuses on:
 
 **a)** Understanding the internal mechanisms of LLMs. I have investigated the mechanisms underlying [factual knowledge](https://zepingyu0512.github.io/neuron-attribution.github.io/), [in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), [arithmetic](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
 
