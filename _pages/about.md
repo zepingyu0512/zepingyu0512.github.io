@@ -40,7 +40,7 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 
 - *2024.04*: I've compiled a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for those interested in exploring the mechanisms of LLMs.
 
-# 📝 Selected Publications
+# 📝 Publications
 
 [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950)
 
