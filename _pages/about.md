@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I was previously a DL4code researcher at Tencent from 2020 to 2022. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
+I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I was previously a DL4Code AI researcher at Tencent from 2020 to 2022. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
 
 I believe mechanistic interpretability is crucial for achieving trustworthy AGI. While interpretability may be less critical when using LLMs as tools, it becomes essential if our goal is to develop AGI. Without understanding the reasoning behind a model's decisions, pursuing AGI would be extremely dangerous. My current research focuses on:
 
@@ -76,6 +76,6 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 
 # 📖 Educations
 - *2023.09 - now*, PhD student, Computer Science, University of Manchester. 
-- *2020.03 - 2022.03 (work)*, DL4code, Tencent.
+- *2020.03 - 2022.03 (work)*, DL4Code, Tencent.
 - *2017.09 - 2020.03*, Master of Engineering, Shanghai Jiao Tong University.
 - *2013.09 - 2017.06*, Bachelor of Engineering, Shanghai Jiao Tong University.
