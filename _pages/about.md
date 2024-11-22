@@ -58,6 +58,22 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 
 **Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
 
+[CodeCMR: Cross-modal retrieval for function-level binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
+
+**Zeping Yu**, Wenxin Zheng, Jiaqi Wang, Qiyi Tang, Sen Nie, Shi Wu \[**NeurIPS 2020**\]
+
+[Order matters: Semantic-aware neural networks for binary code similarity detection](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf) 
+
+**Zeping Yu**, Rui Cao, Qiyi Tang, Sen Nie, Junzhou Huang, Shi Wu \[**AAAI 2020**\]
+
+[Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation](https://www.ijcai.org/proceedings/2019/0585.pdf) 
+
+**Zeping Yu**, Jianxun Lian, Ahmad Mahmoody, Gongshen Liu, Xing Xie \[**IJCAI 2019**\]
+
+[Sliced recurrent neural networks](https://arxiv.org/pdf/1807.02291.pdf) 
+
+**Zeping Yu**, Gongshen Liu \[**COLING 2018**\]
+
 # 📖 Educations
 - *2023.09 - now*, PhD student, Computer Science, University of Manchester. 
 - *2020.03 - 2022.03 (work)*, DL4code, Tencent.
