@@ -38,9 +38,7 @@ Please feel free to contact me via zepingyu@foxmail.com for discussions, potenti
 - *2024.09*: Our work is accepted by EMNLP 2024 (main): [How do Large Language Models Learn In-Context? Query and Key
 Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/). This work explores the mechanism of in-context learning in LLMs. \[[CODE](https://github.com/zepingyu0512/in-context-mechanism)\]
 
-- *2024.04*: I create a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for people interested in understanding the mechanism of LLMs. 
-
-- *2023.09*: I start my PhD in the University of Manchester.
+- *2024.04*: I've compiled a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for those interested in exploring the mechanisms of LLMs.
 
 # 📝 Publications
 
