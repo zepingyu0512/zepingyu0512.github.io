@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student at the University of Manchester (started in September 2023), supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I was previously an AI researcher at Tencent from 2020 to 2022, where I focused on DL4code. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
+I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I was previously a DL4code researcher at Tencent from 2020 to 2022. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
 
-I believe mechanistic interpretability is the key to trustworthy AGI. Currently, I am interested in: 
+I believe mechanistic interpretability is crucial for achieving trustworthy AGI. While interpretability may be less critical when using LLMs as tools, it becomes essential if our goal is to develop AGI. Without understanding the reasoning behind a model's decisions, pursuing AGI would be extremely dangerous. My current research focuses on:
 
-**a)** Understanding the internal mechanisms of LLMs. I have explored the mechanisms of [factual knowledge](https://zepingyu0512.github.io/neuron-attribution.github.io/), [in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), [arithmetic](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
+**a)** Understanding the internal mechanisms of LLMs. I have investigated the mechanisms underlying [factual knowledge](https://zepingyu0512.github.io/neuron-attribution.github.io/), [in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), [arithmetic](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
 
-**b)** Leveraging interpretability insights to identify flaws of LLMs' structures, and designing safer and more effective methods/models.
+**b)** Leveraging interpretability insights to identify structural flaws in LLMs and designing safer, more effective models and methods.
 
-Please feel free to contact me via zepingyu@foxmail.com for discussions.
+Please feel free to contact me via zepingyu@foxmail.com for discussions, potential collaborations and career opportunities.
 
 # 🔥 News
 
