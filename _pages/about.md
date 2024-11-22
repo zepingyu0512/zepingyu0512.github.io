@@ -44,7 +44,7 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 
 [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950)
 
-**Zeping Yu**, Sophia Ananiadou \[**arxiv preprint**\]
+**Zeping Yu**, Sophia Ananiadou \[**arxiv preprint arxiv: 2411.10950**\]
 
 [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
 
