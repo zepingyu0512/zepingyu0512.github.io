@@ -21,13 +21,11 @@ I am a second-year PhD student at the University of Manchester (started in Septe
 
 I believe mechanistic interpretability is the key to trustworthy AGI. Currently, I am interested in: 
 
-**a)** Understanding the internal mechanisms of large language models. 
+**a)** Understanding the internal mechanisms of LLMs. I have explored the mechanisms of [factual knowledge](https://zepingyu0512.github.io/neuron-attribution.github.io/), [in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), [arithmetic](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
 
-**b)** Using the interpretability findings to help downstream tasks (e.g. factual knowledge, reasoning). 
+**b)** Leveraging interpretability insights to identify flaws of LLMs' structures, and designing safer and more effective methods/models.
 
-**c)** Using the interpretability findings to design safer models. 
-
-My current research is identifying the important neurons in LLMs and constructing the neuron-level internal logic chain (also named "neuron circuits"), which is useful for neuron-level model editing and neuron-level model safety. I have explored the [neuron-level knowledge attribution](https://zepingyu0512.github.io/neuron-attribution.github.io/), [mechanism of in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), [mechanism of arithmetic task](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/) in LLMs, and [mechanism of Multimodal-LLMs in visual question answering](https://arxiv.org/pdf/2411.10950). Please feel free to contact me via zepingyu@foxmail.com for discussions.
+Please feel free to contact me via zepingyu@foxmail.com for discussions.
 
 # 🔥 News
 
@@ -40,7 +38,7 @@ My current research is identifying the important neurons in LLMs and constructin
 - *2024.09*: Our work is accepted by EMNLP 2024 (main): [How do Large Language Models Learn In-Context? Query and Key
 Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/). This work explores the mechanism of in-context learning in LLMs. \[[CODE](https://github.com/zepingyu0512/in-context-mechanism)\]
 
-- *2024.04*: I create a [PAPER LIST](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for people interested in understanding the mechanism of LLMs. 
+- *2024.04*: I create a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for people interested in understanding the mechanism of LLMs. 
 
 - *2023.09*: I start my PhD in the University of Manchester.
 
@@ -76,6 +74,6 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 
 # 📖 Educations
 - *2023.09 - now*, PhD student, Computer Science, the University of Manchester. 
-- *2020.03 - 2022.03 (work)*, DL4code, Tencent Keen Lab.
+- *2020.03 - 2022.03 (work)*, DL4code, Tencent.
 - *2017.09 - 2020.03*, Master of Engineering, Shanghai Jiao Tong University.
 - *2013.09 - 2017.06*, Bachelor of Engineering, Shanghai Jiao Tong University.
