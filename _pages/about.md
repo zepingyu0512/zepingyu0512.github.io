@@ -25,7 +25,7 @@ I believe mechanistic interpretability is crucial for achieving trustworthy AGI.
 
 **b)** Leveraging interpretability insights to identify structural flaws in LLMs and designing safer, more effective models and methods.
 
-Please feel free to contact me via zepingyu@foxmail.com for discussions, potential collaborations and career opportunities.
+Please feel free to contact me at zepingyu@foxmail.com for discussions. I am also open to potential collaborations and career opportunities.
 
 # 🔥 News
 
