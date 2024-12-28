@@ -31,6 +31,8 @@ Please feel free to contact me at zepingyu@foxmail.com for discussions. I am als
 
 # 🔥 News
 
+- *2024.12*: I've compiled a [paper list](https://github.com/zepingyu0512/awesome-SAE/tree/main) for those interested in sparse auto-encoder (SAE).
+
 - *2024.11*: New preprint: [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950). This work explores the mechanism of Llava in visual question answering. \[[CODE](https://github.com/zepingyu0512/llava-mechanism/tree/main)\]
 
 - *2024.09*: Our work is accepted by EMNLP 2024 (main): [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/). This work explores the mechanism of arithmetic ability in LLMs. \[[CODE](https://github.com/zepingyu0512/arithmetic-mechanism)\]
