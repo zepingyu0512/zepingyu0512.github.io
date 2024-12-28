@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I worked as a DL4Code researcher at Tencent Keen Lab from 2020 to 2022, where I designed deep learning models and methodologies to support cybersecurity researchers in reverse engineering binary code. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
+I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I worked as a DL4Code researcher at [Tencent Keen Lab](https://keenlab.tencent.com/en/) from 2020 to 2022, where I designed deep learning models and methodologies to support cybersecurity researchers in reverse engineering binary code. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
 
 I believe mechanistic interpretability is crucial for achieving trustworthy AGI. Without understanding the reasoning behind a model's decisions, pursuing AGI would be extremely dangerous. Therefore, my current research focuses on:
 
