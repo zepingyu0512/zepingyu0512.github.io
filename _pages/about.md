@@ -23,7 +23,7 @@ I believe mechanistic interpretability is crucial for achieving trustworthy AGI.
 
 **a)** Identifying important neurons and understanding the neuron-level information flow in LLMs. I have investigated the mechanisms underlying [factual knowledge](https://zepingyu0512.github.io/neuron-attribution.github.io/), [arithmetic](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/), [in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
 
-**b)** Leveraging interpretability insights to identify structural flaws in LLMs, design safer and more effective models/methods, and enhance the performance of downstream tasks.
+**b)** Leveraging interpretability insights to identify structural weaknesses in LLMs, design safer and more effective models/methods, and enhance the performance of downstream tasks.
 
 Please feel free to contact me at zepingyu@foxmail.com for discussions. I am also open to potential collaborations and career opportunities.
 
