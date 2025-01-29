@@ -23,7 +23,7 @@ I believe mechanistic interpretability is crucial for achieving trustworthy AGI.
 
 **a)** Identifying important neurons and understanding the neuron-level information flow in LLMs. I have investigated the mechanisms underlying [factual knowledge](https://zepingyu0512.github.io/neuron-attribution.github.io/), [arithmetic](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/), [in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), [gender bias](https://arxiv.org/pdf/2501.14457) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
 
-**b)** Leveraging interpretability insights to identify structural weaknesses in LLMs, design safer and more effective models/methods, and enhance the performance of downstream tasks. I have [designed the neuron editing method to reduce the gender bias in LLMs]((https://arxiv.org/pdf/2501.14457)), based on the insights of mechanistic interpretability.
+**b)** Leveraging interpretability insights to identify structural weaknesses in LLMs, design safer and more effective models/methods, and enhance the performance of downstream tasks. Based on the interpretability insights, I have designed [the neuron editing method to reduce the gender bias in LLMs]((https://arxiv.org/pdf/2501.14457)).
 
 Contact me: zepingyu@foxmail.com. I am open to potential collaborations and career opportunities.
 
