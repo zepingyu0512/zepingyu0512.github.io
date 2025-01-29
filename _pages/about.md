@@ -21,15 +21,17 @@ I am a PhD student at University of Manchester, supervised by Prof. [Sophia Anan
 
 I believe mechanistic interpretability is crucial for achieving trustworthy AGI. Without understanding the reasoning behind a model's decisions, pursuing AGI would be extremely dangerous. Therefore, my current research focuses on:
 
-**a)** Identifying important neurons and understanding the neuron-level information flow in LLMs. I have investigated the mechanisms underlying [factual knowledge](https://zepingyu0512.github.io/neuron-attribution.github.io/), [arithmetic](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/), [in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
+**a)** Identifying important neurons and understanding the neuron-level information flow in LLMs. I have investigated the mechanisms underlying [factual knowledge](https://zepingyu0512.github.io/neuron-attribution.github.io/), [arithmetic](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/), [in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), [gender bias](https://arxiv.org/pdf/2501.14457) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
 
-**b)** Leveraging interpretability insights to identify structural weaknesses in LLMs, design safer and more effective models/methods, and enhance the performance of downstream tasks.
+**b)** Leveraging interpretability insights to identify structural weaknesses in LLMs, design safer and more effective models/methods, and enhance the performance of downstream tasks. I have [designed the neuron editing method to reduce the gender bias in LLMs]((https://arxiv.org/pdf/2501.14457)), based on the insights of mechanistic interpretability.
 
-Please feel free to contact me at zepingyu@foxmail.com for discussions. I am also open to potential collaborations and career opportunities.
+Contact me: zepingyu@foxmail.com. I am open to potential collaborations and career opportunities.
 
 # 🔥 News
 
-- *2024.12*: I've compiled a [paper list](https://github.com/zepingyu0512/awesome-SAE/tree/main) for those interested in sparse auto-encoder (SAE).
+- *2025.1*: New preprint: [Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing](https://arxiv.org/pdf/2501.14457). This work investigates the mechanism of gender bias and propose a neuron-level editing method to reduce gender bias in LLMs. 
+
+- *2024.12*: I've compiled paper lists of [SAE](https://github.com/zepingyu0512/awesome-SAE) and [neuron in LLMs](https://github.com/zepingyu0512/awesome-LLM-neuron).
 
 - *2024.11*: New preprint: [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950). This work explores the mechanism of Llava in visual question answering. \[[CODE](https://github.com/zepingyu0512/llava-mechanism/tree/main)\]
 
@@ -43,6 +45,10 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 - *2024.04*: I've compiled a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for those interested in exploring the mechanisms of LLMs.
 
 # 📝 Publications
+
+[Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing](https://arxiv.org/pdf/2501.14457)
+
+**Zeping Yu**, Sophia Ananiadou \[**arxiv preprint arxiv: 2501.14457**\]
 
 [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950)
 
