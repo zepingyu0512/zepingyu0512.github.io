@@ -21,11 +21,11 @@ I am a PhD student at University of Manchester, supervised by Prof. [Sophia Anan
 
 I believe mechanistic interpretability is crucial for achieving trustworthy AGI. Without understanding the reasoning behind a model's decisions, pursuing AGI would be extremely dangerous. Therefore, my current research focuses on:
 
-**a)** Identifying important neurons and understanding the neuron-level information flow in LLMs. I have investigated the mechanisms underlying [factual knowledge](https://zepingyu0512.github.io/neuron-attribution.github.io/), [arithmetic](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/), [in-context learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/), [gender bias](https://arxiv.org/pdf/2501.14457) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
+**a)** Identifying important neurons and understanding the neuron-level information flow in LLMs. I have investigated the mechanisms underlying [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), [gender bias](https://arxiv.org/pdf/2501.14457) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
 
-**b)** Leveraging interpretability insights to identify structural weaknesses in LLMs, design safer and more effective models/methods, and enhance the performance of downstream tasks. Based on the interpretability insights, I have designed [the neuron editing method to reduce the gender bias in LLMs]((https://arxiv.org/pdf/2501.14457)).
+**b)** Leveraging interpretability insights to identify structural weaknesses in LLMs, design safer and more effective models/methods, and enhance the performance of downstream tasks. Based on the interpretability insights, I have designed the [neuron editing](https://arxiv.org/pdf/2501.14457) method to reduce the gender bias in LLMs.
 
-Contact me: zepingyu@foxmail.com. I am open to potential collaborations and career opportunities.
+I am open to potential collaborations and career opportunities. Please feel free to contact me at zepingyu@foxmail.com.
 
 # 🔥 News
 
@@ -33,14 +33,14 @@ Contact me: zepingyu@foxmail.com. I am open to potential collaborations and care
 
 - *2024.12*: I've compiled paper lists of [SAE](https://github.com/zepingyu0512/awesome-SAE) and [neuron in LLMs](https://github.com/zepingyu0512/awesome-LLM-neuron).
 
-- *2024.11*: New preprint: [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950). This work explores the mechanism of Llava in visual question answering. \[[CODE](https://github.com/zepingyu0512/llava-mechanism/tree/main)\]
+- *2024.11*: New preprint: [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950). This work explores the mechanism of Llava in visual question answering. 
 
-- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/). This work explores the neuron-level information flow of arithmetic mechanism in LLMs. \[[CODE](https://github.com/zepingyu0512/arithmetic-mechanism)\]
+- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/). This work explores the neuron-level information flow of arithmetic mechanism in LLMs. 
 
-- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/). This work introduces how to identify important neurons in LLMs, and explores the neuron-level information flow of factual knowledge mechanism. \[[CODE](https://github.com/zepingyu0512/neuron-attribution)\]
+- *2024.09*: Our work is accepted by EMNLP 2024 (main): [Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/). This work introduces how to identify important neurons in LLMs, and explores the neuron-level information flow of factual knowledge mechanism. 
 
 - *2024.09*: Our work is accepted by EMNLP 2024 (main): [How do Large Language Models Learn In-Context? Query and Key
-Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/). This work explores the mechanism of in-context learning in LLMs. \[[CODE](https://github.com/zepingyu0512/in-context-mechanism)\]
+Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/). This work explores the mechanism of in-context learning in LLMs.
 
 - *2024.04*: I've compiled a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for those interested in exploring the mechanisms of LLMs.
 
