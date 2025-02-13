@@ -21,15 +21,15 @@ I am a PhD student at University of Manchester, supervised by Prof. [Sophia Anan
 
 I believe mechanistic interpretability is crucial for achieving trustworthy AGI. Without understanding the reasoning behind a model's decisions, pursuing AGI would be extremely dangerous. Therefore, my current research focuses on:
 
-**a)** Identifying important neurons and understanding the neuron-level information flow in LLMs. I have investigated the mechanisms underlying [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), [gender bias](https://arxiv.org/pdf/2501.14457) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
+**a) Neuron-Level Mechanistic Interpretability.** Identifying important neurons and understanding the neuron-level information flow in LLMs. I have investigated the mechanisms underlying [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), [gender bias](https://arxiv.org/pdf/2501.14457) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
 
-**b)** Leveraging interpretability techniques to identify weaknesses in LLMs, design better methods/models, and enhance the performance of downstream tasks. Based on mechanistic interpretability, I have designed the [neuron editing](https://arxiv.org/pdf/2501.14457) method to reduce the gender bias in LLMs.
+**b) Usable XAI.** Leveraging interpretability techniques to design better methods/models and enhance the performance of downstream tasks. Based on mechanistic interpretability, I have designed [model pruning](https://aclanthology.org/2024.emnlp-main.193/) for arithmetic tasks and [neuron editing](https://arxiv.org/pdf/2501.14457) for reducing gender bias in LLMs.
 
 I am open to potential collaborations and career opportunities. Please feel free to contact me at zepingyu@foxmail.com.
 
 # 🔥 News
 
-- *2025.1*: New preprint: [Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing](https://arxiv.org/pdf/2501.14457). This work investigates the mechanism of gender bias and propose a neuron-level editing method to reduce gender bias in LLMs. 
+- *2025.1*: New preprint: [Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing](https://arxiv.org/pdf/2501.14457). This work investigates the mechanism of gender bias and propose a neuron-level model editing method to reduce gender bias in LLMs. 
 
 - *2024.12*: I've compiled paper lists of [SAE](https://github.com/zepingyu0512/awesome-SAE) and [neuron in LLMs](https://github.com/zepingyu0512/awesome-LLM-neuron).
 
