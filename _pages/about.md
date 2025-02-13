@@ -25,7 +25,7 @@ I believe mechanistic interpretability is crucial for achieving trustworthy AGI.
 
 **b) Usable XAI.** Leveraging interpretability techniques to design better methods/models and enhance the performance of downstream tasks. Based on mechanistic interpretability, I have designed [model pruning](https://aclanthology.org/2024.emnlp-main.193/) for arithmetic tasks and [neuron editing](https://arxiv.org/pdf/2501.14457) for reducing gender bias in LLMs.
 
-I am open to potential collaborations and career opportunities. Please feel free to contact me at zepingyu@foxmail.com.
+I am open to career opportunities. Contact me: zepingyu@foxmail.com.
 
 # 🔥 News
 
