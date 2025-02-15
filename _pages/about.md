@@ -21,7 +21,7 @@ I am a PhD student at University of Manchester, supervised by Prof. [Sophia Anan
 
 I believe mechanistic interpretability is crucial for achieving trustworthy AGI. Without understanding the reasoning behind a model's decisions, pursuing AGI would be extremely dangerous. Therefore, my current research focuses on:
 
-**a) Neuron-Level Mechanistic Interpretability.** Identifying important neurons and understanding the neuron-level information flow in LLMs. I have investigated the mechanisms underlying [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), [gender bias](https://arxiv.org/pdf/2501.14457) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
+**a) Neuron-Level Mechanistic Interpretability of LLMs.** Identifying important neurons and understanding the neuron-level information flow in LLMs. I have investigated the mechanisms underlying [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), [gender bias](https://arxiv.org/pdf/2501.14457) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
 
 **b) Designing Better LLMs.** Designing better methodologies/modules and enhancing the basic abilities of LLMs based on interpretability insights. I have designed [model pruning](https://aclanthology.org/2024.emnlp-main.193/) for arithmetic tasks and [neuron editing](https://arxiv.org/pdf/2501.14457) for reducing gender bias in LLMs.
 
