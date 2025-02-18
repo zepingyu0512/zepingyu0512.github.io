@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I worked as a DL4Code and DL4CyberSecurity researcher at [Tencent Keen Lab](https://keenlab.tencent.com/en/) from 2020 to 2022, where I designed deep learning models and methodologies to support cybersecurity researchers in [reverse engineering binary code](https://www.binaryai.cn/single-file). I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
+I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I worked as a DL4Code and DL4CyberSecurity researcher at [Tencent Keen Lab](https://keenlab.tencent.com/en/) from 2020 to 2022, where I designed deep learning models and methodologies for [binary code reverse engineering](https://www.binaryai.cn/single-file). I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
 
 I believe mechanistic interpretability is crucial for achieving trustworthy AGI. Without understanding the reasoning behind a model's decisions, pursuing AGI would be extremely dangerous. Therefore, my current research focuses on:
 
 **a) Neuron-Level Mechanistic Interpretability of LLMs.** Identifying important neurons and understanding the neuron-level information flow in LLMs. I have investigated the mechanisms underlying [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), [gender bias](https://arxiv.org/pdf/2501.14457), [latent multi-hop reasoning](https://arxiv.org/pdf/2502.10835) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
 
-**b) Designing Better LLMs.** Designing better methodologies/modules and enhancing the basic abilities of LLMs based on interpretability insights. I have designed [model pruning](https://aclanthology.org/2024.emnlp-main.193/) for arithmetic tasks, [neuron editing](https://arxiv.org/pdf/2501.14457) for reducing gender bias, and [back attention](https://arxiv.org/pdf/2502.10835) for enhancing latent multi-hop reasoning ability in LLMs.
+**b) Designing Better LLMs.** Designing better methodologies/modules and enhancing basic abilities of LLMs based on interpretability insights. I have designed [model pruning](https://aclanthology.org/2024.emnlp-main.193/) for arithmetic tasks, [neuron editing](https://arxiv.org/pdf/2501.14457) for reducing gender bias, and [back attention](https://arxiv.org/pdf/2502.10835) for enhancing latent multi-hop reasoning ability in LLMs.
 
 Contact me: zepingyu@foxmail.com.
 
