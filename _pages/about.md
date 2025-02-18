@@ -62,15 +62,15 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 
 [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
 
-**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
+**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024 (main)**\]
 
 [Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/)
 
-**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
+**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024 (main)**\]
 
 [How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/)
 
-**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024**\]
+**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024 (main)**\]
 
 [CodeCMR: Cross-modal retrieval for function-level binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
 
