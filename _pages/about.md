@@ -31,7 +31,7 @@ My email is zepingyu@foxmail.com.
 
 - *2025.2*: New preprint: [Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models](https://arxiv.org/pdf/2502.10835). This work investigates the mechanism of latent multi-hop reasoning and propose the back attention module to enhance the latent multi-hop reasoning ability in LLMs. 
 
-- *2025.1*: New preprint: [Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing](https://arxiv.org/pdf/2501.14457). This work investigates the mechanism of gender bias and propose a neuron-level model editing method to reduce gender bias in LLMs without hurting the existing abilities. 
+- *2025.1*: New preprint: [Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing](https://arxiv.org/pdf/2501.14457). This work investigates the mechanism of gender bias and proposes a neuron-level model editing method to reduce gender bias in LLMs without hurting the existing abilities. 
 
 - *2024.12*: I've compiled paper lists of [SAE](https://github.com/zepingyu0512/awesome-SAE) and [neuron in LLMs](https://github.com/zepingyu0512/awesome-LLM-neuron).
 
@@ -90,6 +90,6 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 
 # 📖 Educations
 - *2023.09 - now*, PhD student, Computer Science, University of Manchester. 
-- *2020.03 - 2022.03 (work)*, DL4Code \& DL4CyberSecurity, Tencent Keen Lab.
+- *2020.03 - 2022.03 (work)*, DL4Code and DL4CyberSecurity, Tencent Keen Lab.
 - *2017.09 - 2020.03*, Master of Engineering, Shanghai Jiao Tong University.
 - *2013.09 - 2017.06*, Bachelor of Engineering, Shanghai Jiao Tong University.
