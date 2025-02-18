@@ -23,7 +23,7 @@ I believe mechanistic interpretability is crucial for achieving trustworthy AGI.
 
 **a) Neuron-Level Mechanistic Interpretability of LLMs.** Identifying important neurons and understanding the neuron-level information flow in LLMs. I have investigated the mechanisms underlying [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), [gender bias](https://arxiv.org/pdf/2501.14457), [latent multi-hop reasoning](https://arxiv.org/pdf/2502.10835) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
 
-**b) Designing Better LLMs.** Designing better methodologies/modules and enhancing basic abilities of LLMs based on interpretability insights. I have designed [model pruning](https://aclanthology.org/2024.emnlp-main.193/) for arithmetic tasks, [neuron editing](https://arxiv.org/pdf/2501.14457) for reducing gender bias, and [back attention](https://arxiv.org/pdf/2502.10835) for enhancing latent multi-hop reasoning ability in LLMs.
+**b) Designing Better LLMs.** Designing better methodologies/modules and enhancing basic abilities of LLMs based on interpretability insights. I have designed [model pruning](https://aclanthology.org/2024.emnlp-main.193/) for arithmetic tasks, [neuron editing](https://arxiv.org/pdf/2501.14457) for reducing gender bias, and [back attention](https://arxiv.org/pdf/2502.10835) for enhancing latent multi-hop reasoning ability.
 
 Contact me: zepingyu@foxmail.com.
 
