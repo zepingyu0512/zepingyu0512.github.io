@@ -90,6 +90,6 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 
 # 📖 Educations
 - *2023.09 - now*, PhD student, Computer Science, University of Manchester. 
-- *2020.03 - 2022.03 (work)*, DL4Code, DL4CyberSecurity, Tencent Keen Lab.
+- *2020.03 - 2022.03 (work)*, DL4Code \& DL4CyberSecurity, Tencent Keen Lab.
 - *2017.09 - 2020.03*, Master of Engineering, Shanghai Jiao Tong University.
 - *2013.09 - 2017.06*, Bachelor of Engineering, Shanghai Jiao Tong University.
