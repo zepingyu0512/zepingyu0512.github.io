@@ -25,7 +25,7 @@ I believe mechanistic interpretability is crucial for achieving trustworthy AGI.
 
 **b) Designing Better LLMs.** Designing better methodologies/modules and enhancing basic abilities of LLMs based on interpretability insights. I have designed [model pruning](https://aclanthology.org/2024.emnlp-main.193/) for arithmetic tasks, [neuron editing](https://arxiv.org/pdf/2501.14457) for reducing gender bias, and [back attention](https://arxiv.org/pdf/2502.10835) for enhancing latent multi-hop reasoning ability.
 
-Contact me: zepingyu@foxmail.com.
+My email is zepingyu@foxmail.com.
 
 # 🔥 News
 
