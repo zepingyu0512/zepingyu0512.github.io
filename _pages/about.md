@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I worked as a DL4Code and DL4CyberSecurity researcher at [Tencent Keen Lab](https://keenlab.tencent.com/en/) from 2020 to 2022, where I designed deep learning models and methodologies for [binary code reverse engineering](https://www.binaryai.cn/single-file). I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
+I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I worked as an NLP researcher at Tencent Technology (Shanghai) from 2020 to 2022. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
 
-I believe mechanistic interpretability is crucial for achieving trustworthy AGI. Without understanding the reasoning behind a model's decisions, pursuing AGI would be extremely dangerous. Therefore, my current research focuses on:
+I believe mechanistic interpretability is crucial for achieving trustworthy AGI. Moreover, it serves as a powerful tool for analyzing LLMs and informing the design of better methodologies and modules. Therefore, my research focuses on:
 
-**a) Neuron-Level Mechanistic Interpretability of LLMs.** Identifying important neurons and understanding the neuron-level information flow in LLMs. I have investigated the mechanisms underlying [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), [gender bias](https://arxiv.org/pdf/2501.14457), [latent multi-hop reasoning](https://arxiv.org/pdf/2502.10835) in LLMs, and [visual question answering](https://arxiv.org/pdf/2411.10950) in multimodal-LLMs.
+**a) Neuron-Level Mechanistic Interpretability of LLMs.** Identifying important neurons and understanding the neuron-level information flow in LLMs, especially on reasoning-related tasks. My research has investigated the underlying mechanisms of [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), and [latent multi-hop reasoning](https://arxiv.org/pdf/2502.10835) in LLMs. Also, I have explored the mechanisms of [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), [visual question answering](https://arxiv.org/pdf/2411.10950), and [gender bias](https://arxiv.org/pdf/2501.14457) in LLMs.
 
-**b) Designing Better LLMs.** Designing better methodologies/modules and enhancing basic abilities of LLMs based on interpretability insights. I have designed [model pruning](https://aclanthology.org/2024.emnlp-main.193/) for arithmetic tasks, [neuron editing](https://arxiv.org/pdf/2501.14457) for reducing gender bias, and [back attention](https://arxiv.org/pdf/2502.10835) for enhancing latent multi-hop reasoning ability.
+**b) Improving LLMs.** Applying interpretability techniques to enhance knowledge, arithmetic, and reasoning capabilities. I have designed the [model pruning](https://aclanthology.org/2024.emnlp-main.193/) method for arithmetic tasks, the [back attention](https://arxiv.org/pdf/2502.10835) module for improving latent multi-hop reasoning, and the [neuron editing](https://arxiv.org/pdf/2501.14457) technique that mitigates gender bias while preserving the LLM's existing capabilities.
 
 My email is zepingyu@foxmail.com.
 
@@ -89,7 +89,7 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 **Zeping Yu**, Gongshen Liu \[**COLING 2018**\]
 
 # 📖 Educations
-- *2023.09 - now*, PhD student, Computer Science, University of Manchester. 
-- *2020.03 - 2022.03 (work)*, DL4Code and DL4CyberSecurity, Tencent Keen Lab.
+- *2023.09 - 2027.02 (Expected)*, PhD student, Computer Science, University of Manchester. 
+- *2020.03 - 2022.03 (work)*, NLP, Tencent Technology (Shanghai).
 - *2017.09 - 2020.03*, Master of Engineering, Shanghai Jiao Tong University.
 - *2013.09 - 2017.06*, Bachelor of Engineering, Shanghai Jiao Tong University.
