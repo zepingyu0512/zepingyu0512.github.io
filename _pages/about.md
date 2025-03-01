@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I worked as an NLP researcher at Tencent Technology (Shanghai) from 2020 to 2022. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
 
-I believe mechanistic interpretability is crucial for achieving trustworthy AGI. Moreover, it serves as a powerful tool for analyzing LLMs and informing the design of better methodologies and modules. Therefore, my research focuses on:
+I believe mechanistic interpretability is crucial for achieving trustworthy AGI. It is also a powerful tool for analyzing LLMs and informing the design of better methodologies and modules. Currently, my research focuses on:
 
 **a) Neuron-Level Mechanistic Interpretability of LLMs.** Identifying important neurons and understanding the neuron-level information flow in LLMs, especially on knowledge, arithmetic and reasoning tasks. My research has investigated the underlying mechanisms of [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), and [latent multi-hop reasoning](https://arxiv.org/pdf/2502.10835) in LLMs. Also, I have explored the mechanisms of [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), [visual question answering](https://arxiv.org/pdf/2411.10950), and [gender bias](https://arxiv.org/pdf/2501.14457) in LLMs.
 
