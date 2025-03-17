@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I worked as an NLP researcher at Tencent from 2020 to 2022. I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
+I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I worked as an deep learning researcher at Tencent from 2020 to 2022, where I used graph neural networks to improve the accuracy of [binary code similarity detection](https://cdn.aaai.org/ojs/5466/5466-13-8691-1-10-20200511.pdf) and [binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf). I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
 
-I believe mechanistic interpretability is crucial for achieving trustworthy AGI. Pursuing AGI without understanding the reasoning behind its decision-making is inherently risky. Also, mechanistic interpretability serves as a powerful tool for analyzing LLMs and guiding the development of better methodologies and architectural improvements. Currently, my research focuses on:
+Currently, my research focuses on:
 
-**a) LLM mechanistic interpretability.** Identifying important neurons and understanding the neuron-level information flow in LLMs. My research has investigated the underlying mechanisms of [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [latent multi-hop reasoning](https://arxiv.org/pdf/2502.10835), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), and [visual question answering](https://arxiv.org/pdf/2411.10950).
+**a) Understanding LLM mechanisms.** Identifying important paramaters in LLMs and understanding how LLMs work. My research has investigated the underlying mechanisms of [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [latent multi-hop reasoning](https://arxiv.org/pdf/2502.10835), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), and [visual question answering](https://arxiv.org/pdf/2411.10950).
 
-**b) LLM post-training.** Applying interpretability techniques to analyze LLMs and design methods to enhance LLMs' capabilities (knowledge, arithmetic, reasoning) during post-training. I have developed the [back attention](https://arxiv.org/pdf/2502.10835) module to improve latent multi-hop reasoning ability.
+**b) LLM post-training.** Analyzing LLMs and designing methods to enhance LLMs' capabilities (knowledge, arithmetic, reasoning) during post-training. I have developed the [back attention](https://arxiv.org/pdf/2502.10835) module to improve latent multi-hop reasoning ability.
 
 **c) LLM safety and fairness.** Leveraging interpretability techniques to identify key neurons responsible for encoding gender bias, and applying the [neuron-level model editing](https://arxiv.org/pdf/2501.14457) technique to mitigate gender bias while preserving the LLM's existing capabilities.
 
