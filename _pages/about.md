@@ -21,7 +21,7 @@ I am a PhD student at University of Manchester, supervised by Prof. [Sophia Anan
 
 Currently, my research focuses on:
 
-**a) Understanding LLM mechanisms.** Identifying important paramaters in LLMs and understanding how LLMs work. My research has investigated the underlying mechanisms of [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [latent multi-hop reasoning](https://arxiv.org/pdf/2502.10835), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), and [visual question answering](https://arxiv.org/pdf/2411.10950).
+**a) Understanding LLMs and MLLMs.** Identifying important paramaters in LLMs and understanding how LLMs work. My research has investigated the underlying mechanisms of [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [latent multi-hop reasoning](https://arxiv.org/pdf/2502.10835), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), and [visual question answering](https://arxiv.org/pdf/2411.10950).
 
 **b) LLM post-training.** Analyzing LLMs and designing methods to enhance LLMs' capabilities (knowledge, arithmetic, reasoning) during post-training. I have developed the [back attention](https://arxiv.org/pdf/2502.10835) module to improve latent multi-hop reasoning ability.
 
