@@ -25,7 +25,7 @@ Currently, my research focuses on:
 
 **b) LLM post-training.** Analyzing LLMs and designing methods to enhance LLMs' capabilities (knowledge, arithmetic, reasoning) during post-training. I have developed the [back attention](https://arxiv.org/pdf/2502.10835) module to improve latent multi-hop reasoning ability.
 
-**c) LLM safety and fairness.** Leveraging interpretability techniques to identify key neurons responsible for encoding gender bias, and applying the [neuron-level model editing](https://arxiv.org/pdf/2501.14457) technique to mitigate gender bias while preserving the LLM's existing capabilities.
+**c) Model editing for LLM.** Identifying and editing the important parameters to reduce the hallucination, unfairness, toxicity, and bias in LLMs. I designed the [neuron-level model editing](https://arxiv.org/pdf/2501.14457) technique to mitigate gender bias without hurting the LLM's existing capabilities.
 
 My email is zepingyu@foxmail.com.
 
