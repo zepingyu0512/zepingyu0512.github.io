@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Before that, I worked as a deep learning researcher at Tencent Technology, where I used deep learning models to improve the accuracy of [binary code similarity detection](https://cdn.aaai.org/ojs/5466/5466-13-8691-1-10-20200511.pdf) and [binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf). 
+I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as a deep learning researcher at Tencent Technology, where I used deep learning models to improve the accuracy of [binary code similarity detection](https://cdn.aaai.org/ojs/5466/5466-13-8691-1-10-20200511.pdf) and [binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf). 
 
 Currently, my research focuses on:
 
