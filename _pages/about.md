@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). I worked as a deep learning researcher at Tencent Technology from 2020 to 2022, where I used BERT, graph neural network and cross-modal retrieval techniques to improve the accuracy of [binary code similarity detection](https://cdn.aaai.org/ojs/5466/5466-13-8691-1-10-20200511.pdf) and [binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf). I graduated from Shanghai Jiao Tong University in 2020 with a Master’s Degree, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75), and in 2017 with a Bachelor’s Degree. 
+I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Before that, I worked as a deep learning researcher at Tencent Technology, where I used deep learning models to improve the accuracy of [binary code similarity detection](https://cdn.aaai.org/ojs/5466/5466-13-8691-1-10-20200511.pdf) and [binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf). 
 
 Currently, my research focuses on:
 
@@ -91,6 +91,4 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 **Zeping Yu**, Gongshen Liu \[**COLING 2018**\]
 
 # 📖 Educations
-- *2023.09 - 2027.02 (Expected)*, PhD, Computer Science, University of Manchester. 
-- *2017.09 - 2020.03*, Master of Engineering, Shanghai Jiao Tong University.
-- *2013.09 - 2017.06*, Bachelor of Engineering, Shanghai Jiao Tong University.
+- *2023.09 - 2027.02*, PhD, Computer Science, University of Manchester. 
