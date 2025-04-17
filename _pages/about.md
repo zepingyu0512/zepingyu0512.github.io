@@ -19,13 +19,13 @@ redirect_from:
 
 I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as a deep learning researcher at Tencent Technology, where I designed deep learning models for [binary code similarity detection](https://cdn.aaai.org/ojs/5466/5466-13-8691-1-10-20200511.pdf) and [binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf). I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75).
 
-Currently, my research focuses on:
+I am deeply interested in the inner workings of LLMs and multimodal LLMs. I believe that gaining a better understanding of their underlying mechanisms will be valuable for designing more effective modules and strategies to enhance their capabilities. My current research focuses on:
 
-**a) Understanding LLMs and multimodal LLMs.** Identifying important paramaters in LLMs and understanding how LLMs work. My research has investigated the underlying mechanisms of [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [latent multi-hop reasoning](https://arxiv.org/pdf/2502.10835), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), and [visual question answering](https://arxiv.org/pdf/2411.10950).
+**a) Understanding LLMs and multimodal LLMs.** Exploring how LLMs and multimodal LLMs work. My research investigates the underlying mechanisms of [factual knowledge](https://aclanthology.org/2024.emnlp-main.191/), [arithmetic](https://aclanthology.org/2024.emnlp-main.193/), [latent multi-hop reasoning](https://arxiv.org/pdf/2502.10835), [in-context learning](https://aclanthology.org/2024.emnlp-main.192/), and [visual question answering](https://arxiv.org/pdf/2411.10950).
 
-**b) LLM post-training.** Analyzing LLMs and designing methods to enhance LLMs' capabilities (knowledge, arithmetic, reasoning, multimodal) during post-training. I have developed the [back attention](https://arxiv.org/pdf/2502.10835) module to improve the latent multi-hop reasoning ability of LLMs.
+**b) Post-training for LLMs.** Analyzing LLMs and designing methods to enhance LLMs' capabilities such as knowledge, arithmetic, multimodal, and reasoning during post-training. I developed the [back attention](https://arxiv.org/pdf/2502.10835) module to improve the latent multi-hop reasoning ability of LLMs.
 
-**c) Model editing for LLM.** Identifying and editing the important parameters to reduce hallucination, unfairness, toxicity, and bias in LLMs. I designed the [neuron-level model editing](https://arxiv.org/pdf/2501.14457) technique to mitigate gender bias without hurting the LLM's existing capabilities.
+**c) Model editing for LLMs.** Identifying and editing the important parameters to reduce hallucination, unfairness, toxicity, and bias in LLMs. I designed the [neuron-level model editing](https://arxiv.org/pdf/2501.14457) technique to mitigate gender bias without hurting the LLM's existing capabilities.
 
 My email is zepingyu@foxmail.com.
 
