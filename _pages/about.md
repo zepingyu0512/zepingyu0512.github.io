@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as a deep learning researcher at Tencent Technology, where I designed deep learning models for [binary code similarity detection](https://cdn.aaai.org/ojs/5466/5466-13-8691-1-10-20200511.pdf) and [binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf). I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75).
+I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology, where I designed deep learning models for [binary code similarity detection](https://cdn.aaai.org/ojs/5466/5466-13-8691-1-10-20200511.pdf) and [binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf). I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75).
 
 I am deeply interested in the inner workings of LLMs and multimodal LLMs. I believe that gaining a better understanding of their underlying mechanisms will be valuable for designing more effective modules and strategies to enhance their capabilities. My current research focuses on:
 
