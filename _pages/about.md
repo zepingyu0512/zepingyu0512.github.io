@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology, where I designed deep learning models for [code detection](https://cdn.aaai.org/ojs/5466/5466-13-8691-1-10-20200511.pdf) and [code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf). I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75).
+I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology, where I designed deep learning models for code detection and code matching. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75).
 
 My research lies in understanding the inner mechanisms of large language models (LLMs) and multimodal LLMs. I believe that deeper insights into these systems can inform the design of more robust, controllable, and efficient architectures. My current work focuses on two main directions:
 
 **a) Mechanistic interpretability of LLMs and multimodal LLMs.** I develop and apply interpretability techniques to analyze how these models perform multi-task learning. My studies span fundamental abilities—such as factual knowledge, arithmetic, and in-context learning—as well as higher-order capabilities like latent multi-hop reasoning and visual question answering. Through these efforts, I aim to build principled understandings that can guide future model development. 
 
-**b) Tackling fundamental challenges beyond scaling in LLMs.** While scaling data and compute has led to impressive gains in LLM capabilities, certain fundamental challenges persist. One such challenge is catastrophic forgetting—the tendency of LLMs to lose previously acquired knowledge during fine-tuning, continual learning, or model editing. My current research focuses on understanding the mechanisms behind this phenomenon and exploring ways to mitigate it, with the goal of enabling more stable and reliable post-training interventions.
+**b) Tackling fundamental challenges beyond scaling in LLMs.** Although scaling data and compute has significantly improved LLM performance, it cannot resolve certain intrinsic, mechanism-level challenges. One such issue is catastrophic forgetting—the tendency of LLMs to lose previously acquired knowledge during fine-tuning, continual learning, or model editing. My current research focuses on understanding the mechanisms behind this phenomenon and exploring ways to mitigate it, with the goal of enabling more stable and reliable post-training interventions.
 
 My email is zepingyu@foxmail.com.
 
