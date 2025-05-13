@@ -25,7 +25,7 @@ My research lies in understanding the inner mechanisms of LLMs and multimodal LL
 
 **b) Mitigating the catastrophic forgetting problem in LLM post-training.** While scaling data and compute has led to significant improvements in the performance of LLMs, it does not address certain fundamental challenges at the mechanistic level. One such challenge is catastrophic forgetting—the tendency of LLMs to lose previously learned capabilities during SFT and RL. My current research aims to investigate the underlying mechanisms of this phenomenon and to develop effective mitigation strategies, with the broader goal of enabling more robust and continually improving LLMs.
 
-My email is zepingyu@foxmail.com.
+Feel free to contact me at zepingyu@foxmail.com if you're interested in working together.
 
 # 🔥 News
 
