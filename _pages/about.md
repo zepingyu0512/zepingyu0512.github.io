@@ -50,18 +50,6 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 
 # 📝 Publications
 
-[Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models](https://arxiv.org/pdf/2502.10835)
-
-**Zeping Yu**, Yonatan Belinkov, Sophia Ananiadou \[**arxiv: 2502.10835**\]
-
-[Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing](https://arxiv.org/pdf/2501.14457)
-
-**Zeping Yu**, Sophia Ananiadou \[**arxiv: 2501.14457**\]
-
-[Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950)
-
-**Zeping Yu**, Sophia Ananiadou \[**arxiv: 2411.10950**\]
-
 [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
 
 **Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024 (main)**\]
