@@ -49,6 +49,7 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 - *2024.04*: I've compiled a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for those interested in exploring the mechanisms of LLMs.
 
 # 📝 Publications
+* Equal contribution
 
 [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
 
@@ -68,7 +69,7 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 
 [Order matters: Semantic-aware neural networks for binary code similarity detection](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf) 
 
-**Zeping Yu**, Rui Cao, Qiyi Tang, Sen Nie, Junzhou Huang, Shi Wu \[**AAAI 2020**\]
+**Zeping Yu***, Rui Cao* , Qiyi Tang, Sen Nie, Junzhou Huang, Shi Wu \[**AAAI 2020**\]
 
 [Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation](https://www.ijcai.org/proceedings/2019/0585.pdf) 
 
