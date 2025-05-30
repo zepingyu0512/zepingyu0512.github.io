@@ -51,7 +51,7 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 # 📝 Publications
 \* Equal contribution
 
-[Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/pdf/2502.10835)
+[Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/pdf/2505.16703)
 
 **Zeping Yu**, Sophia Ananiadou \[**arxiv 2025.5**\]
 
