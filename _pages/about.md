@@ -96,6 +96,6 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 **Zeping Yu**, Gongshen Liu \[**COLING 2018**\]
 
 # 📖 Educations
-- *2023.09 - 2027.02*, PhD of Computer Science, University of Manchester.
+- *2023.09 - 2026.09 (Expected)*, PhD of Computer Science, University of Manchester.
 - *2017.09 - 2020.02*, Master of Engineering, Shanghai Jiao Tong University.
 - *2013.09 - 2017.06*, Bachelor of Engineering, Shanghai Jiao Tong University.
