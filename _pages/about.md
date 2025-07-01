@@ -17,15 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology, where I designed deep learning models for code detection and code matching. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. [Gongshen Liu](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75).
+I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
 
-My research lies in understanding the inner mechanisms of LLMs and multimodal LLMs. I believe that deeper insights into these models can inform the design of more robust, controllable, and efficient architectures. My current work focuses on two main directions:
+My research lies in understanding the inner mechanisms of LLMs and multimodal LLMs (MLLMs). I believe that a deeper understanding of these models can inform the design of more robust, controllable, and efficient architectures, and guide practical techniques for improving model performance. In particular, I work on:
 
-**a) Mechanistic interpretability of LLMs and multimodal LLMs.** I develop and apply interpretability techniques to investigate how LLMs powerfully perform different tasks and capabilities within one single model. My studies span fundamental abilities—such as factual knowledge, arithmetic, and in-context learning—as well as higher-order capabilities like latent multi-hop reasoning and visual question answering. Through these efforts, I aim to establish principled insights that inform and guide the future development of LLMs.
+**a) Mechanistic interpretability of LLMs and multimodal LLMs.** 
+I develop and apply interpretability techniques to investigate how LLMs and multimodal LLMs perform a wide range of tasks using a shared architecture. Through these efforts, I aim to establish principled insights that inform and guide the future development of these models.
 
-**b) Mitigating the catastrophic forgetting problem in LLM post-training.** While scaling data and compute has led to significant improvements in the performance of LLMs, it does not address certain fundamental challenges at the mechanistic level. One such challenge is catastrophic forgetting—the tendency of LLMs to lose previously learned capabilities during SFT and RL. My current research aims to investigate the underlying mechanisms of this phenomenon and to develop effective mitigation strategies, with the broader goal of enabling more robust and continually improving LLMs.
+1. **Understanding fundamental abilities**
+   I analyze how core skills emerge in LLMs, including factual knowledge, arithmetic reasoning, and in-context learning.
 
-Feel free to contact me at zepingyu@foxmail.com if you're interested in working together.
+   - [EMNLP 2024 main](https://aclanthology.org/2024.emnlp-main.191.pdf): Understanding the mechanism of factual knowledge.
+   - [EMNLP 2024 main](https://aclanthology.org/2024.emnlp-main.193.pdf): Understanding the mechanism of arithmetic operations.
+   - [EMNLP 2024 main](https://aclanthology.org/2024.emnlp-main.192.pdf): Understanding the mechanism of in-context learning.
+
+3. **Understanding higher-order capabilities**
+   I study more complex reasoning behaviors in LLMs and MLLMs, such as latent multi-hop reasoning and visual question answering.
+
+   - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Understanding the mechanism of visual question answering in MLLMs.
+   - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Understanding why LLMs fail on latent multi-hop reasoning.
+
+**b) Improving LLM and multimodal LLM capabilities.** Beyond understanding model behavior, I aim to **improve the performance and reliability of LLMs and multimodal LLMs**. My current efforts focus on three directions:
+
+1. **Designing interpretability tools**  
+   I build interpretability tools that expose how LLMs and MLLMs reason internally, helping users understand the rationale behind model responses. These tools aim to improve transparency and increase user confidence in the model’s outputs, especially in high-stakes or ambiguous scenarios.
+
+   - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Interpretability tool for visual question answering.
+   - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Interpretability tool for analyzing neuron-level information flow.
+
+2. **Diagnosing failure cases and designing better modules**  
+   I use interpretability techniques to analyze how and why models fail, which guides the design of new architectures or fine-tuning strategies.
+
+   - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): A new module, back attention, to improve the latent multi-hop reasoning ability.
+     
+3. **Model editing and Model merging**  
+   I work on methods that identify specific neurons or weights responsible for errors, enabling efficient post-training model editing or model merging.
+
+   - [arXiv 2025.01](https://arxiv.org/pdf/2501.14457): Locate-then-edit for neuron-level model editing, to reduce gender bias.
+   - [arXiv 2025.05](https://arxiv.org/pdf/2505.16703): Locate-then-merge after post-training, to mitigate catastrophic forgetting.
+
+I am seeking a Research Scientist position starting in late 2026 or early 2027. Please feel free to contact me at **zepingyu@foxmail.com** if you are interested in working together.
 
 # 🔥 News
 
