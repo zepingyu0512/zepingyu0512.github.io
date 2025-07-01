@@ -33,33 +33,33 @@ I develop and apply interpretability techniques to investigate how LLMs and MLLM
    - [EMNLP 2024 main](https://aclanthology.org/2024.emnlp-main.193.pdf): Understanding the mechanism of arithmetic operations.
    - [EMNLP 2024 main](https://aclanthology.org/2024.emnlp-main.192.pdf): Understanding the mechanism of in-context learning.
 
-3. **Understanding higher-order capabilities**
+2. **Understanding higher-order capabilities**
    
-   I study more complex reasoning behaviors in LLMs and MLLMs, such as latent multi-hop reasoning and visual question answering.
+   I study more complex behaviors in LLMs and MLLMs, such as latent multi-hop reasoning and visual question answering.
 
    - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Understanding the mechanism of visual question answering in MLLMs.
    - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Understanding why LLMs fail on latent multi-hop reasoning.
 
 **b) Improving LLM and MLLM capabilities.** 
 
-Beyond understanding model behavior, I aim to **improve the performance and reliability of LLMs and MLLMs**. My current efforts focus on three directions:
+Beyond understanding model behavior, I aim to improve the performance and reliability of LLMs and MLLMs. My current efforts focus on three directions:
 
-1. **Designing interpretability tools**
+1. **Creating interpretability tools that help users interpret and trust LLM generations**
 
    I build interpretability tools that expose how LLMs and MLLMs reason internally, helping users understand the rationale behind model responses. These tools aim to improve transparency and increase user confidence in the model’s outputs, especially in high-stakes or ambiguous scenarios.
 
    - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Interpretability tool for visual question answering.
    - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Interpretability tool for analyzing neuron-level information flow.
 
-3. **Diagnosing failure cases and designing better modules**
+2. **Interpreting model failures to inform architectural design**
 
-   I use interpretability techniques to analyze how and why models fail, which guides the design of new architectures or fine-tuning strategies.
+   I use interpretability techniques to analyze how and why models fail, guiding the design of new architectures, modules, and strategies.
 
    - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): A new module, back attention, to improve the latent multi-hop reasoning ability.
      
-5. **Model editing and Model merging**
+3. **Controlling LLM behavior via model editing and model merging**
 
-   I work on methods that identify specific neurons or weights responsible for errors, enabling efficient post-training model editing or model merging.
+   I develop methods to identify specific neurons or weights responsible for different capabilities, enabling targeted interventions such as model editing and merging.
 
    - [arXiv 2025.01](https://arxiv.org/pdf/2501.14457): Locate-then-edit for neuron-level model editing, to reduce gender bias.
    - [arXiv 2025.05](https://arxiv.org/pdf/2505.16703): Locate-then-merge after post-training, to mitigate catastrophic forgetting.
