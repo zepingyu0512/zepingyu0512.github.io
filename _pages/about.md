@@ -21,8 +21,8 @@ I am a PhD student at University of Manchester, supervised by Prof. [Sophia Anan
 
 My research lies in understanding the inner mechanisms of LLMs and multimodal LLMs (MLLMs). I believe that a deeper understanding of these models can inform the design of more robust, controllable, and efficient architectures, and guide practical techniques for improving model performance. In particular, I work on:
 
-**a) Mechanistic interpretability of LLMs and multimodal LLMs.** 
-I develop and apply interpretability techniques to investigate how LLMs and multimodal LLMs perform a wide range of tasks using a shared architecture. Through these efforts, I aim to establish principled insights that inform and guide the future development of these models.
+**a) Mechanistic interpretability of LLMs and MLLMs.** 
+I develop and apply interpretability techniques to investigate how LLMs and MLLMs perform a wide range of tasks using a shared architecture. Through these efforts, I aim to establish principled insights that inform and guide the future development of these models.
 
 1. **Understanding fundamental abilities**
    I analyze how core skills emerge in LLMs, including factual knowledge, arithmetic reasoning, and in-context learning.
@@ -37,7 +37,7 @@ I develop and apply interpretability techniques to investigate how LLMs and mult
    - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Understanding the mechanism of visual question answering in MLLMs.
    - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Understanding why LLMs fail on latent multi-hop reasoning.
 
-**b) Improving LLM and multimodal LLM capabilities.** Beyond understanding model behavior, I aim to **improve the performance and reliability of LLMs and multimodal LLMs**. My current efforts focus on three directions:
+**b) Improving LLM and MLLM capabilities.** Beyond understanding model behavior, I aim to **improve the performance and reliability of LLMs and MLLMs**. My current efforts focus on three directions:
 
 1. **Designing interpretability tools**  
    I build interpretability tools that expose how LLMs and MLLMs reason internally, helping users understand the rationale behind model responses. These tools aim to improve transparency and increase user confidence in the model’s outputs, especially in high-stakes or ambiguous scenarios.
@@ -60,7 +60,7 @@ I am seeking a Research Scientist position starting in late 2026 or early 2027. 
 
 # 🔥 News
 
-- *2025.5*: New preprint: [Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/pdf/2505.16703). This work investigates how to mitigate the catastrophic forgetting problem after visual instruction tuning in multimodal LLMs.
+- *2025.5*: New preprint: [Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/pdf/2505.16703). This work investigates how to mitigate the catastrophic forgetting problem after visual instruction tuning in MLLMs.
 
 - *2025.2*: New preprint: [Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models](https://arxiv.org/pdf/2502.10835). This work investigates the mechanism of latent multi-hop reasoning and propose the back attention module to enhance the latent multi-hop reasoning ability in LLMs. 
 
