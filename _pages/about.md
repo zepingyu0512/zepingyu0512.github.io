@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
+I am a PhD student at the University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
 
 My research lies in understanding the inner mechanisms of LLMs and multimodal LLMs (MLLMs). I believe that a deeper understanding of these models can inform the design of more robust, controllable, and efficient architectures, and guide practical techniques for improving model performance. In particular, I work on:
 
@@ -29,9 +29,9 @@ I develop and apply interpretability techniques to investigate how LLMs and MLLM
    
    I analyze how core skills emerge in LLMs, including factual knowledge, arithmetic reasoning, and in-context learning.
 
-   - [EMNLP 2024 main](https://aclanthology.org/2024.emnlp-main.191.pdf): Understanding the mechanism of factual knowledge.
-   - [EMNLP 2024 main](https://aclanthology.org/2024.emnlp-main.193.pdf): Understanding the mechanism of arithmetic operations.
-   - [EMNLP 2024 main](https://aclanthology.org/2024.emnlp-main.192.pdf): Understanding the mechanism of in-context learning.
+   - [EMNLP 2024](https://aclanthology.org/2024.emnlp-main.191.pdf): Understanding the mechanism of factual knowledge.
+   - [EMNLP 2024](https://aclanthology.org/2024.emnlp-main.193.pdf): Understanding the mechanism of arithmetic operations.
+   - [EMNLP 2024](https://aclanthology.org/2024.emnlp-main.192.pdf): Understanding the mechanism of in-context learning.
 
 2. **Understanding higher-order capabilities**
    
@@ -44,14 +44,14 @@ I develop and apply interpretability techniques to investigate how LLMs and MLLM
 
 Beyond understanding model behavior, I aim to improve the performance and reliability of LLMs and MLLMs. My current efforts focus on three directions:
 
-1. **Creating interpretability tools that help users interpret and trust LLM generations**
+1. **Creating interpretability tools to help users understand and trust LLM outputs**
 
    I build interpretability tools that expose how LLMs and MLLMs reason internally, helping users understand the rationale behind model responses. These tools aim to improve transparency and increase user confidence in the model’s outputs, especially in high-stakes or ambiguous scenarios.
 
    - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Interpretability tool for visual question answering.
    - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Interpretability tool for analyzing neuron-level information flow.
 
-2. **Interpreting model failures to inform architectural design**
+2. **Analyzing model failures to inform architectural design**
 
    I use interpretability techniques to analyze how and why models fail, guiding the design of new architectures, modules, and strategies.
 
@@ -64,7 +64,7 @@ Beyond understanding model behavior, I aim to improve the performance and reliab
    - [arXiv 2025.01](https://arxiv.org/pdf/2501.14457): Locate-then-edit for neuron-level model editing, to reduce gender bias.
    - [arXiv 2025.05](https://arxiv.org/pdf/2505.16703): Locate-then-merge after post-training, to mitigate catastrophic forgetting.
 
-I am seeking a Research Scientist position starting in late 2026 or early 2027. Please feel free to contact me at **zepingyu@foxmail.com** if you are interested in working together.
+I am actively seeking a Research Scientist position starting in late 2026 or early 2027. Please feel free to contact me at **zepingyu@foxmail.com** if you are interested in working together.
 
 # 🔥 News
 
