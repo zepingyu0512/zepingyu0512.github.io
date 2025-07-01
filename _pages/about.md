@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student at the University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
 
-My research lies in understanding the inner mechanisms of LLMs and multimodal LLMs (MLLMs). I believe that a deeper understanding of these models can inform the design of more robust, controllable, and efficient architectures, and guide practical techniques for improving model performance. In particular, I work on:
+My research lies in understanding the inner mechanisms of LLMs and multimodal LLMs (MLLMs). I believe deeper understanding of these models can inform the design of more robust, controllable, and efficient architectures, and guide practical techniques to improve model performance. In particular, I work on:
 
 **a) Mechanistic interpretability of LLMs and MLLMs.** 
 
