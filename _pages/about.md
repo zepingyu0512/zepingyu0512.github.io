@@ -21,11 +21,11 @@ I am a PhD student at the University of Manchester, supervised by Prof. [Sophia 
 
 My research lies in understanding the inner mechanisms of LLMs and multimodal LLMs (MLLMs). I believe deeper understanding of these models can inform the design of more robust, controllable, and efficient architectures, and guide practical techniques to improve model performance. In particular, I work on:
 
-**a) Mechanistic interpretability of LLMs and MLLMs.** 
+**a) Understanding LLMs and MLLMs through mechanistic interpretability** 
 
 I develop and apply interpretability techniques to investigate how LLMs and MLLMs perform a wide range of tasks using a shared architecture. Through these efforts, I aim to establish principled insights that inform and guide the future development of these models.
 
-1. **Understanding fundamental abilities**
+1. **Understanding fundamental capabilities**
    
    I analyze how core skills emerge in LLMs, including factual knowledge, arithmetic reasoning, and in-context learning.
 
@@ -40,7 +40,7 @@ I develop and apply interpretability techniques to investigate how LLMs and MLLM
    - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Understanding the mechanism of visual question answering in MLLMs.
    - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Understanding why LLMs fail on latent multi-hop reasoning.
 
-**b) Improving LLM and MLLM capabilities.** 
+**b) From understanding to improvement: Enhancing LLM and MLLM capabilities through interpretability-driven techniques** 
 
 Beyond understanding model behavior, I aim to improve the performance and reliability of LLMs and MLLMs. My current efforts focus on three directions:
 
