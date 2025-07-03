@@ -57,11 +57,11 @@ Beyond understanding model behavior, I aim to improve the performance and reliab
 
    - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): A new module, back attention, to improve the latent multi-hop reasoning ability.
      
-3. **Controlling LLM behavior via model editing and model merging**
+3. **Improving LLM/MLLM capability via model editing and model merging**
 
-   I develop methods to identify specific neurons or weights responsible for different capabilities, enabling targeted interventions such as model editing and merging.
+   I develop methods to identify specific neurons or weights responsible for different capabilities, enabling targeted parameter change such as model editing and merging.
 
-   - [arXiv 2025.01](https://arxiv.org/pdf/2501.14457): Locate-then-edit for neuron-level model editing, to reduce gender bias.
+   - [arXiv 2025.01](https://arxiv.org/pdf/2501.14457): Locate-then-edit for neuron-level model editing, to reduce gender bias and keep general ability.
    - [arXiv 2025.05](https://arxiv.org/pdf/2505.16703): Locate-then-merge after post-training, to mitigate catastrophic forgetting.
 
 I am actively seeking a Research Scientist position starting in late 2026 or early 2027. Please feel free to contact me at **zepingyu@foxmail.com** if you are interested in working together.
