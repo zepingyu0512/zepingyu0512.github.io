@@ -19,6 +19,8 @@ redirect_from:
 
 I am a PhD student at the University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
 
+I am actively seeking a Research Scientist position starting in September 2026. Please feel free to contact me at **zepingyu@foxmail.com** regarding any suitable openings.
+
 My research lies in understanding the inner mechanisms of LLMs and multimodal LLMs (MLLMs). I believe deeper understanding of these models can inform the design of more robust, controllable, and efficient architectures, and guide practical techniques to improve model performance. In particular, I work on:
 
 **a) Understanding LLMs and MLLMs through mechanistic interpretability** 
@@ -63,8 +65,6 @@ Beyond understanding model behavior, I aim to improve the performance and reliab
 
    - [arXiv 2025.01](https://arxiv.org/pdf/2501.14457): Locate-then-edit for neuron-level model editing, to reduce gender bias and improve LLMs' general ability.
    - [arXiv 2025.05](https://arxiv.org/pdf/2505.16703): Locate-then-merge for merging base model and post-trained model, to mitigate catastrophic forgetting and improve MLLMs' language ability and multimodal ability.
-
-I am actively seeking a Research Scientist position starting in September 2026. Please feel free to contact me at **zepingyu@foxmail.com** regarding any suitable openings.
 
 # 🔥 News
 
