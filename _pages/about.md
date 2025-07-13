@@ -29,9 +29,9 @@ I develop and apply interpretability techniques to investigate how LLMs and MLLM
    
    I analyze how core skills emerge in LLMs, including factual knowledge, arithmetic reasoning, and in-context learning.
 
-   - [EMNLP 2024](https://aclanthology.org/2024.emnlp-main.191.pdf): Understanding the mechanism of factual knowledge.
-   - [EMNLP 2024](https://aclanthology.org/2024.emnlp-main.193.pdf): Understanding the mechanism of arithmetic operations.
-   - [EMNLP 2024](https://aclanthology.org/2024.emnlp-main.192.pdf): Understanding the mechanism of in-context learning.
+   - [EMNLP 2024-a](https://aclanthology.org/2024.emnlp-main.191.pdf): Understanding the mechanism of factual knowledge.
+   - [EMNLP 2024-b](https://aclanthology.org/2024.emnlp-main.193.pdf): Understanding the mechanism of arithmetic operations.
+   - [EMNLP 2024-c](https://aclanthology.org/2024.emnlp-main.192.pdf): Understanding the mechanism of in-context learning.
 
 2. **Understanding higher-order capabilities**
    
