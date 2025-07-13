@@ -59,7 +59,7 @@ Beyond understanding model behavior, I aim to improve the performance and reliab
      
 3. **Improving LLM/MLLM capability via model editing and model merging**
 
-   I develop methods to identify specific neurons or weights responsible for different capabilities, enabling targeted parameter change such as model editing and model merging.
+   I develop methods to identify specific parameters responsible for different capabilities, enabling targeted parameter change such as model editing and model merging.
 
    - [arXiv 2025.01](https://arxiv.org/pdf/2501.14457): Locate-then-edit for neuron-level model editing, to reduce gender bias and improve LLMs' general ability.
    - [arXiv 2025.05](https://arxiv.org/pdf/2505.16703): Locate-then-merge for merging the base model and the post-training model, to mitigate catastrophic forgetting and improve MLLMs' language ability and multimodal ability.
