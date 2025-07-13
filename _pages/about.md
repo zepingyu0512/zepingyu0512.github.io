@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at the University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
+I am a PhD student at the University of Manchester, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
 
 My research lies in understanding the inner mechanisms of LLMs and multimodal LLMs (MLLMs). I believe deeper understanding of these models can inform the design of more robust, controllable, and efficient architectures, and guide practical techniques to improve model performance. In particular, I work on:
 
@@ -29,13 +29,13 @@ I develop and apply interpretability techniques to investigate how LLMs and MLLM
    
    I analyze how core skills emerge in LLMs, including factual knowledge, arithmetic reasoning, and in-context learning.
 
-   - [EMNLP 2024-a](https://aclanthology.org/2024.emnlp-main.191.pdf): Understanding the mechanism of factual knowledge.
-   - [EMNLP 2024-b](https://aclanthology.org/2024.emnlp-main.193.pdf): Understanding the mechanism of arithmetic operations.
-   - [EMNLP 2024-c](https://aclanthology.org/2024.emnlp-main.192.pdf): Understanding the mechanism of in-context learning.
+   - [EMNLP 2024-a](https://aclanthology.org/2024.emnlp-main.191.pdf): Understanding the mechanism of factual knowledge in LLMs.
+   - [EMNLP 2024-b](https://aclanthology.org/2024.emnlp-main.193.pdf): Understanding the mechanism of arithmetic operations in LLMs.
+   - [EMNLP 2024-c](https://aclanthology.org/2024.emnlp-main.192.pdf): Understanding the mechanism of in-context learning in LLMs.
 
 2. **Understanding higher-order capabilities**
    
-   I study more complex behaviors in LLMs and MLLMs, such as latent multi-hop reasoning and visual question answering.
+   I investigate more complex behaviors in LLMs and MLLMs, such as visual question answering and latent multi-hop reasoning.
 
    - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Understanding the mechanism of visual question answering in MLLMs.
    - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Understanding why LLMs fail on latent multi-hop reasoning.
@@ -48,23 +48,23 @@ Beyond understanding model behavior, I aim to improve the performance and reliab
 
    I build interpretability tools that expose how LLMs and MLLMs reason internally, helping users understand the rationale behind model responses. These tools aim to improve transparency and increase user confidence in the model’s outputs, especially in high-stakes or ambiguous scenarios.
 
-   - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Interpretability tool for visual question answering.
-   - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Interpretability tool for analyzing neuron-level information flow.
+   - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Creating an interpretability tool for identifying important image patches and understanding why MLLMs generate false answers in visual question answering.
+   - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Creating an interpretability tool for analyzing neuron-level information flow and understanding why LLMs cannot perform latent multihop reasoning well.
 
 2. **Analyzing model failures to inform architectural design**
 
    I use interpretability techniques to analyze how and why models fail, guiding the design of new architectures, modules, and strategies.
 
-   - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): A new module, back attention, to improve the latent multi-hop reasoning ability.
+   - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Designing a new module, back attention, to improve LLMs' latent multi-hop reasoning ability.
      
 3. **Improving LLM/MLLM capability via model editing and model merging**
 
-   I develop methods to identify specific neurons or weights responsible for different capabilities, enabling targeted parameter change such as model editing and merging.
+   I develop methods to identify specific neurons or weights responsible for different capabilities, enabling targeted parameter change such as model editing and model merging.
 
    - [arXiv 2025.01](https://arxiv.org/pdf/2501.14457): Locate-then-edit for neuron-level model editing, to reduce gender bias and improve LLMs' general ability.
    - [arXiv 2025.05](https://arxiv.org/pdf/2505.16703): Locate-then-merge for merging the base model and the post-training model, to mitigate catastrophic forgetting and improve MLLMs' language ability and multimodal ability.
 
-I am actively seeking a Research Scientist position starting in late 2026 or early 2027. Please feel free to contact me at **zepingyu@foxmail.com** if you are interested in working together.
+I am actively seeking a Research Scientist position starting in Sep 2026 (Expected). Please feel free to contact me at **zepingyu@foxmail.com** if you are interested in working together.
 
 # 🔥 News
 
