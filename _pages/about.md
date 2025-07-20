@@ -21,7 +21,7 @@ I am a PhD student at the University of Manchester and the [NaCTeM](https://www.
 
 I am actively seeking a Research Scientist position starting in September 2026. Please feel free to contact me at **zepingyu@foxmail.com** if you have any suitable openings!
 
-My research lies in understanding the inner mechanisms of LLMs and multimodal LLMs (MLLMs). I believe deeper understanding of these models can inform the design of more robust, controllable, and efficient architectures, and guide practical techniques to improve model performance. In particular, I work on:
+My research lies in understanding the inner mechanisms of LLMs and multimodal LLMs (MLLMs). I believe deeper understanding of these models can inform the design of more robust, controllable, and efficient architectures, and guide practical techniques to improve model performance. Moreover, as we move toward AGI and ASI, the inability to understand how these models make decisions poses a serious risk—without interpretability, we may lose control over increasingly powerful systems. In particular, I work on:
 
 **a) Understanding LLMs and MLLMs through mechanistic interpretability** 
 
