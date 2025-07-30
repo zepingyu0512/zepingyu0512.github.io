@@ -46,25 +46,25 @@ I develop and apply interpretability techniques to investigate how LLMs and MLLM
 
 Beyond understanding model behavior, I aim to improve the performance and reliability of LLMs and MLLMs. My current efforts focus on three directions:
 
-1. **Creating interpretability tools to help users understand and trust LLM outputs**
-
-   I build interpretability tools that expose how LLMs and MLLMs reason internally, helping users understand the rationale behind model responses. These tools aim to improve transparency and increase user confidence in the model’s outputs, especially in high-stakes or ambiguous scenarios.
-
-   - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Creating an interpretability tool for identifying important image patches and understanding why MLLMs generate false answers in visual question answering.
-   - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Creating an interpretability tool for analyzing neuron-level information flow and understanding why LLMs cannot perform latent multihop reasoning well.
-
-2. **Analyzing model failures to inform architectural design**
+1. **Analyzing model failures to inform architectural design**
 
    I use interpretability techniques to analyze how and why models fail, guiding the design of new architectures, modules, and strategies.
 
    - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Designing a new module, back attention, to improve LLMs' latent multi-hop reasoning ability.
      
-3. **Improving LLM/MLLM capability via model editing and model merging**
+2. **Improving LLM/MLLM capability via model editing and model merging**
 
    I develop methods to identify specific parameters responsible for different capabilities, enabling targeted parameter change such as model editing and model merging.
 
    - [arXiv 2025.01](https://arxiv.org/pdf/2501.14457): Locate-then-edit for neuron-level model editing, to reduce gender bias and improve LLMs' general ability.
    - [arXiv 2025.05](https://arxiv.org/pdf/2505.16703): Locate-then-merge for merging base model and post-trained model, to mitigate catastrophic forgetting and improve MLLMs' language ability and multimodal ability.
+
+3. **Creating interpretability tools to help users understand and trust LLM outputs**
+
+   I build interpretability tools that expose how LLMs and MLLMs reason internally, helping users understand the rationale behind model responses. These tools aim to improve transparency and increase user confidence in the model’s outputs, especially in high-stakes or ambiguous scenarios.
+
+   - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Creating an interpretability tool for identifying important image patches and understanding why MLLMs generate false answers in visual question answering.
+   - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Creating an interpretability tool for analyzing neuron-level information flow and understanding why LLMs cannot perform latent multihop reasoning well.
 
 # 🔥 News
 
