@@ -39,8 +39,8 @@ I develop and apply interpretability techniques to investigate how LLMs and MLLM
    
    I investigate more complex behaviors in LLMs and MLLMs, such as visual question answering and latent multi-hop reasoning.
 
+   - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Understanding why LLMs fail on latent multi-hop reasoning.
    - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Understanding the mechanism of visual question answering in MLLMs.
-   - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Understanding why LLMs fail on latent multi-hop reasoning.
 
 **b) From understanding to improvement: Enhancing LLM and MLLM capabilities through interpretability-driven techniques** 
 
@@ -50,29 +50,30 @@ Beyond understanding model behavior, I aim to improve the performance and reliab
 
    I use interpretability techniques to analyze how and why models fail, guiding the design of new architectures, modules, and strategies.
 
-   - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Designing a new module, back attention, to improve LLMs' latent multi-hop reasoning ability.
+   - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Designing a new module, back attention, to improve LLMs' latent multi-hop reasoning ability.
      
 2. **Improving LLM/MLLM capability via model editing and model merging**
 
    I develop methods to identify specific parameters responsible for different capabilities, enabling targeted parameter change such as model editing and model merging.
-
+   
+   - [EMNLP 2025-b](https://arxiv.org/pdf/2505.16703): Locate-then-merge for merging base model and post-trained model, to mitigate catastrophic forgetting and improve MLLMs' language ability and multimodal ability.
    - [arXiv 2025.01](https://arxiv.org/pdf/2501.14457): Locate-then-edit for neuron-level model editing, to reduce gender bias and improve LLMs' general ability.
-   - [arXiv 2025.05](https://arxiv.org/pdf/2505.16703): Locate-then-merge for merging base model and post-trained model, to mitigate catastrophic forgetting and improve MLLMs' language ability and multimodal ability.
 
-3. **Creating interpretability tools to help users understand and trust LLM outputs**
+4. **Creating interpretability tools to help users understand and trust LLM outputs**
 
    I build interpretability tools that expose how LLMs and MLLMs reason internally, helping users understand the rationale behind model responses. These tools aim to improve transparency and increase user confidence in the model’s outputs, especially in high-stakes or ambiguous scenarios.
 
+   - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Creating an interpretability tool for analyzing neuron-level information flow and understanding why LLMs cannot perform latent multihop reasoning well.
    - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Creating an interpretability tool for identifying important image patches and understanding why MLLMs generate false answers in visual question answering.
-   - [arXiv 2025.02](https://arxiv.org/pdf/2502.10835): Creating an interpretability tool for analyzing neuron-level information flow and understanding why LLMs cannot perform latent multihop reasoning well.
+
 
 # 🔥 News
 
-- *2025.5*: New preprint: [Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/pdf/2505.16703). This work investigates how to mitigate the catastrophic forgetting problem after visual instruction tuning in MLLMs.
+- *2025.08*: Our work is accepted by EMNLP 2025 (main): [Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models](https://arxiv.org/pdf/2502.10835). This work investigates the mechanism of latent multi-hop reasoning and propose the back attention module to enhance the latent multi-hop reasoning ability in LLMs.
 
-- *2025.2*: New preprint: [Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models](https://arxiv.org/pdf/2502.10835). This work investigates the mechanism of latent multi-hop reasoning and propose the back attention module to enhance the latent multi-hop reasoning ability in LLMs. 
+- *2025.08*: Our work is accepted by EMNLP 2025 (findings): [Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/pdf/2505.16703). This work investigates how to mitigate the catastrophic forgetting problem after visual instruction tuning in MLLMs.
 
-- *2025.1*: New preprint: [Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing](https://arxiv.org/pdf/2501.14457). This work investigates the mechanism of gender bias and proposes a neuron-level model editing method to reduce gender bias in LLMs without hurting the existing abilities. 
+- *2025.01*: New preprint: [Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing](https://arxiv.org/pdf/2501.14457). This work investigates the mechanism of gender bias and proposes a neuron-level model editing method to reduce gender bias in LLMs without hurting the existing abilities. 
 
 - *2024.12*: I've compiled paper lists of [SAE](https://github.com/zepingyu0512/awesome-SAE) and [neuron in LLMs](https://github.com/zepingyu0512/awesome-LLM-neuron).
 
@@ -92,11 +93,11 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 
 [Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/pdf/2505.16703)
 
-**Zeping Yu**, Sophia Ananiadou \[**arxiv 2025.5**\]
+**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2025 (findings)**\]
 
 [Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models](https://arxiv.org/pdf/2502.10835)
 
-**Zeping Yu**, Yonatan Belinkov, Sophia Ananiadou \[**arxiv 2025.2**\]
+**Zeping Yu**, Yonatan Belinkov, Sophia Ananiadou \[**EMNLP 2025 (main)**\]
 
 [Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing](https://arxiv.org/pdf/2501.14457)
 
