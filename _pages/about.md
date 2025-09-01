@@ -42,7 +42,7 @@ I develop and apply interpretability techniques to investigate how LLMs and MLLM
 
 Beyond understanding model behavior, I aim to improve the performance and reliability of LLMs and MLLMs. My current efforts focus on three directions:
 
-1. **Designing new modules to improve LLMs' latent multi-hop reasoning ability during post-training**
+1. **Improving LLMs' latent multi-hop reasoning ability during post-training**
 
    - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Designing a new module, back attention, to improve LLMs' latent multi-hop reasoning ability.
      
