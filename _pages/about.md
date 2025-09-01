@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 📖 About Me
+
 I am a PhD student at the University of Manchester and the [NaCTeM](https://www.nactem.ac.uk/) group, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
 
 <span style="color:red;">I am actively seeking (Applied) Research Scientist position starting in Fall 2026. Please feel free to contact me at **zepingyu@foxmail.com** if you have any suitable openings!</span>
