@@ -46,9 +46,9 @@ Beyond understanding model behavior, I aim to improve the performance and reliab
 
    - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Designing a new module, back attention, to improve LLMs' latent multi-hop reasoning ability.
      
-2. **Mitigating catastrophic forgetting through model merging after post-training**
+2. **Mitigating LLMs' catastrophic forgetting problem through model merging after post-training**
    
-   - [EMNLP 2025-b](https://arxiv.org/pdf/2505.16703): Creating the locate-then-merge framework for merging base model and post-trained model, to mitigate catastrophic forgetting and improve MLLMs' language ability and multimodal ability.
+   - [EMNLP 2025-b](https://arxiv.org/pdf/2505.16703): Designing the locate-then-merge framework for merging base LLM and post-trained LLM, to mitigate the catastrophic forgetting problem in post-training.
 
 3. **Creating interpretability tools to help users understand and trust LLM outputs**
 
