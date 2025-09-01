@@ -38,19 +38,19 @@ I develop and apply interpretability techniques to investigate how LLMs and MLLM
    - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Understanding why LLMs fail on latent multi-hop reasoning.
    - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Understanding the mechanism of visual question answering in MLLMs.
 
-**b) Enhancing LLMs and MLLMs' capabilities during post-training** 
+**b) Enhancing LLMs and MLLMs' capabilities in post-training** 
 
 Beyond understanding model behavior, I aim to improve the performance and reliability of LLMs and MLLMs. My current efforts focus on three directions:
 
 1. **Improving LLMs' latent multi-hop reasoning ability during post-training**
 
-   - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Designing a new module, back attention, to improve LLMs' latent multi-hop reasoning ability.
+   - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Designing a new module, ""back attention"", to improve LLMs' latent multi-hop reasoning ability during post-training.
      
 2. **Mitigating LLMs' catastrophic forgetting problem through model merging after post-training**
    
    - [EMNLP 2025-b](https://arxiv.org/pdf/2505.16703): Designing the locate-then-merge framework for merging base LLM and post-trained LLM, to mitigate the catastrophic forgetting problem in post-training.
 
-3. **Creating interpretability tools to help users understand and trust LLM outputs**
+3. **Creating interpretability tools to help users understand and trust LLM generations**
 
    - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Creating an interpretability tool for analyzing neuron-level information flow and understanding why LLMs cannot perform latent multihop reasoning well.
    - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Creating an interpretability tool for identifying important image patches and understanding why MLLMs generate false answers in visual question answering.
