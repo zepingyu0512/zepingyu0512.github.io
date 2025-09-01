@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student at the University of Manchester and the [NaCTeM](https://www.nactem.ac.uk/) group, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
 
-I am actively seeking (Applied) Research Scientist position starting in Fall 2026. Please feel free to contact me at **zepingyu@foxmail.com** if you have any suitable openings!
+<span style="color:red;">I am actively seeking (Applied) Research Scientist position starting in Fall 2026. Please feel free to contact me at **zepingyu@foxmail.com** if you have any suitable openings!</span>
 
 My research lies in understanding the inner mechanisms of LLMs and multimodal LLMs (MLLMs). I believe deeper understanding of these models can inform the design of more robust and efficient architectures, and guide practical techniques to improve model performance. Moreover, as we move toward AGI and ASI, the inability to understand how these models make decisions poses a serious risk—without interpretability, we may lose control over increasingly powerful systems. In particular, I work on:
 
@@ -136,6 +136,6 @@ Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingy
 **Zeping Yu**, Gongshen Liu \[**COLING 2018**\]
 
 # 📖 Educations
-- *2023.09 - 2026.09 (Expected)*, PhD of Computer Science, University of Manchester.
-- *2017.09 - 2020.02*, Master of Engineering, Shanghai Jiao Tong University.
+- *2023.09 - 2026.07 (Expected)*, PhD of Computer Science, University of Manchester.
+- *2017.09 - 2020.02*, Master of Computer Science, Shanghai Jiao Tong University.
 - *2013.09 - 2017.06*, Bachelor of Engineering, Shanghai Jiao Tong University.
