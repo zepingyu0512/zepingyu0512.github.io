@@ -31,13 +31,13 @@ My research lies in understanding the inner mechanisms of LLMs and multimodal LL
 
 I develop and apply interpretability techniques to investigate how LLMs and MLLMs perform a wide range of tasks using a shared architecture. Through these efforts, I aim to establish principled insights that inform and guide the future development of these models.
 
-1. **Understanding fundamental capabilities: knowledge, arithmetic, in-context learning**
+1. **Fundamental capabilities: knowledge, arithmetic, in-context learning**
 
    - [EMNLP 2024-a](https://aclanthology.org/2024.emnlp-main.191.pdf): Understanding the mechanism of factual knowledge in LLMs.
    - [EMNLP 2024-b](https://aclanthology.org/2024.emnlp-main.193.pdf): Understanding the mechanism of arithmetic operations in LLMs.
    - [EMNLP 2024-c](https://aclanthology.org/2024.emnlp-main.192.pdf): Understanding the mechanism of in-context learning in LLMs.
 
-2. **Understanding higher-order capabilities: latent multi-hop reasoning, visual question answering**
+2. **Advanced capabilities: latent multi-hop reasoning, visual question answering**
 
    - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Understanding why LLMs fail on latent multi-hop reasoning.
    - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Understanding the mechanism of visual question answering in MLLMs.
