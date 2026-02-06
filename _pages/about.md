@@ -80,7 +80,7 @@ Interpreting Arithmetic Mechanism in Large Language Models through Comparative N
 
 **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (main)**\]](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
 
-
+---
 
 ### Interpretability and Diagnostic Analysis of LLMs
 
@@ -96,8 +96,7 @@ Neuron-Level Knowledge Attribution in Large Language Models
 
 **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (main)**\]](https://zepingyu0512.github.io/neuron-attribution.github.io/)
 
-
-
+---
 
 ### Earlier Work
 
