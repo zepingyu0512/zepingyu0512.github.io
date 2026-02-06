@@ -35,31 +35,31 @@ I develop interpretability methods, tools, and systems to diagnose, audit, and i
 
 1. **VQALens: visuaizing important image patches for visual question answering (System Demo)**
 
-   - [Debugging multimodal language models via token-level grounding](https://arxiv.org/pdf/2411.10950)
+   - Debugging multimodal language models via token-level grounding. [demo](https://arxiv.org/pdf/2411.10950)
 
 2. **Neuron-level attribution method (EMNLP'24)**
 
-   - [Proposing an attribution method for identifying important neurons](https://aclanthology.org/2024.emnlp-main.191.pdf)
+   - Proposing an attribution method for identifying important neurons. [paper](https://aclanthology.org/2024.emnlp-main.191.pdf)
   
 3. **In-context learning mechanism (EMNLP'24)**
 
-   - [Analyzing the mechanism of in-context learning](https://aclanthology.org/2024.emnlp-main.192.pdf)
+   - Analyzing the mechanism of in-context learning. [paper](https://aclanthology.org/2024.emnlp-main.192.pdf)
 
 **b) Mechanism-Guided Design for Improving LLM & MLLM Capabilities** 
 
-Beyond diagnosis and audit, I design mechanism-guided modules/algorithms to improve LLM capability and reliability.
-
-1. **LLM model pruning for arithmetic tasks (EMNLP'24)**
-
-   - [Analyzing and pruning LLMs for arithmetic tasks](https://aclanthology.org/2024.emnlp-main.193.pdf)
+Beyond diagnosis and audit, I design mechanism-guided modules/algorithms to improve LLM capability.
   
-3. **Improving LLMs' latent multi-hop reasoning ability using back attention module (EMNLP'25)**
+1. **Improving LLMs' latent multi-hop reasoning ability using back attention module (EMNLP'25)**
 
-   - [Designing a new module, "back attention", to improve LLMs' latent multi-hop reasoning ability](https://aclanthology.org/2025.emnlp-main.567.pdf)
+   - Designing a new module, "back attention", to improve LLMs' latent multi-hop reasoning ability. [paper](https://aclanthology.org/2025.emnlp-main.567.pdf)
      
-4. **Mitigating MLLMs' catastrophic forgetting problem through model merging after post-training (EMNLP'25)**
+2. **Mitigating MLLMs' catastrophic forgetting problem through model merging after post-training (EMNLP'25)**
    
-   - [Designing the locate-then-merge framework for merging base LLM and post-trained LLM, to mitigate the catastrophic forgetting problem](https://aclanthology.org/2025.findings-emnlp.372.pdf)
+   - Designing the locate-then-merge framework for merging base LLM and post-trained LLM, to mitigate the catastrophic forgetting problem. [paper](https://aclanthology.org/2025.findings-emnlp.372.pdf)
+
+3. **LLM model pruning for arithmetic tasks (EMNLP'24)**
+
+   - Analyzing and pruning LLMs for arithmetic tasks. [paper](https://aclanthology.org/2024.emnlp-main.193.pdf)
 
 
 # 🔥 News
