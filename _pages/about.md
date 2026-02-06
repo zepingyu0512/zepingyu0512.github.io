@@ -87,7 +87,7 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 
 ---
 
-\[P5\] Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering
+\[P5\] Understanding Multimodal LLMs: the Mechanistic Interpretability of LLaVA in Visual Question Answering
 
 - **Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2411.10950)
 
