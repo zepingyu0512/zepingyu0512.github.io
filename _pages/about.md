@@ -20,46 +20,41 @@ redirect_from:
 
 # 📖 About Me
 
-I am a PhD student at the University of Manchester and the [NaCTeM](https://www.nactem.ac.uk/) group, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
+I am a PhD student at the University of Manchester and the [NaCTeM](https://www.nactem.ac.uk/) group, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu. 
 
-<span style="color:purple;">I am actively seeking (Applied) Research Scientist position starting in Fall 2026. Please feel free to contact me at zepingyu@foxmail.com if you have any suitable openings!</span>
+My research topic is **Interpreting and Improving Large Language Models -- From Internal Mechanisms to Reliable and Capable Systems**.
+
+<span style="color:purple;">I am actively seeking Research Scientist and Applied Scientist positions starting in Fall 2026. Please feel free to contact me at zepingyu@foxmail.com if you have any suitable openings!</span>
 
 
 # 📝 Research Interests
 
-My research lies in understanding the inner mechanisms of LLMs and multimodal LLMs (MLLMs). I believe deeper understanding of these models can inform the design of more robust and efficient architectures, and guide practical techniques to improve model performance. Moreover, as we move toward AGI and ASI, the inability to understand how these models make decisions poses a serious risk—without interpretability, we may lose control over increasingly powerful systems. In particular, I work on:
+**a) Diagnosing, Auditing, and building self-improvement systems via mechanistic intepretability** 
 
-**a) Understanding LLMs and MLLMs' internal mechanisms through mechanistic interpretability** 
+I develop interpretability methods, tools, and systems to diagnose, audit, and improve the behavior of LLMs and multimodal LLMs.
 
-I develop and apply interpretability techniques to investigate how LLMs and MLLMs perform a wide range of tasks using a shared architecture. Through these efforts, I aim to establish principled insights that inform and guide the future development of these models.
+1. **Analyzing LLMs: basic capabilities**
 
-1. **Fundamental capabilities: knowledge, arithmetic, in-context learning**
+   - [EMNLP 2024-a](https://aclanthology.org/2024.emnlp-main.191.pdf): An attribution method for identifying important neurons.
+   - [EMNLP 2024-b](https://aclanthology.org/2024.emnlp-main.193.pdf): Analyzing the information flow of arithmetic operations.
+   - [EMNLP 2024-c](https://aclanthology.org/2024.emnlp-main.192.pdf): Analyzing the mechanism of in-context learning.
 
-   - [EMNLP 2024-a](https://aclanthology.org/2024.emnlp-main.191.pdf): Understanding the mechanism of factual knowledge in LLMs.
-   - [EMNLP 2024-b](https://aclanthology.org/2024.emnlp-main.193.pdf): Understanding the mechanism of arithmetic operations in LLMs.
-   - [EMNLP 2024-c](https://aclanthology.org/2024.emnlp-main.192.pdf): Understanding the mechanism of in-context learning in LLMs.
+2. **Diagnosing LLMs: advanced capabilities**
 
-2. **Advanced capabilities: latent multi-hop reasoning, visual question answering**
+   - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Diagnosing why LLMs fail in latent multi-hop reasoning cases.
+   - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Debugging multimodal LLMs in VQA cases.
 
-   - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Understanding why LLMs fail on latent multi-hop reasoning.
-   - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Understanding the mechanism of visual question answering in MLLMs.
+**b) Improving LLM Capabilities** 
 
-**b) Enhancing LLMs and MLLMs' capabilities in post-training** 
+Beyond diagnosis, I am interested in improving the capabilities of LLMs.
 
-Beyond understanding model behavior, I aim to improve the performance and reliability of LLMs and MLLMs. My current efforts focus on three directions:
+1. **Improving LLMs' latent multi-hop reasoning ability using back attention module**
 
-1. **Improving LLMs' latent multi-hop reasoning ability during post-training**
-
-   - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Designing a new module, "back attention", to improve LLMs' latent multi-hop reasoning ability during post-training.
+   - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Designing a new module, "back attention", to improve LLMs' latent multi-hop reasoning ability.
      
-2. **Mitigating LLMs' catastrophic forgetting problem through model merging after post-training**
+2. **Mitigating MLLMs' catastrophic forgetting problem through model merging after post-training**
    
-   - [EMNLP 2025-b](https://arxiv.org/pdf/2505.16703): Designing the locate-then-merge framework for merging base LLM and post-trained LLM, to mitigate the catastrophic forgetting problem in post-training.
-
-3. **Creating interpretability tools to help users understand and trust LLM generations**
-
-   - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Creating an interpretability tool for analyzing neuron-level information flow and understanding why LLMs cannot perform latent multihop reasoning well.
-   - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Creating an interpretability tool for identifying important image patches and understanding why MLLMs generate false answers in visual question answering.
+   - [EMNLP 2025-b](https://arxiv.org/pdf/2505.16703): Designing the locate-then-merge framework for merging base LLM and post-trained LLM, to mitigate the catastrophic forgetting problem.
 
 
 # 🔥 News
