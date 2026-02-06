@@ -59,7 +59,7 @@ Beyond diagnosis, I am interested in improving the capabilities of LLMs.
 
 # 🔥 News
 
-- *2026.02*: Survey: "Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models".
+- *2026.02*: New survey: "Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models".
 
 - *2025.08*: Our work "Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models" is accepted by EMNLP 2025 (main).
 
