@@ -60,13 +60,14 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 
 
 # 📝 Publications
-\* Equal contribution
 
 ### Mechanism-Guided Improvement of LLM Capabilities
 
+---
+
 Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs
 
-**Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2025 (findings)**\]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
+- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2025 (findings)**\]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
 
 Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models
 
@@ -84,6 +85,8 @@ Interpreting Arithmetic Mechanism in Large Language Models through Comparative N
 
 ### Interpretability and Diagnostic Analysis of LLMs
 
+---
+
 Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering
 
 - **Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2411.10950)
@@ -99,6 +102,8 @@ Neuron-Level Knowledge Attribution in Large Language Models
 ---
 
 ### Earlier Work
+
+---
 
 CodeCMR: Cross-modal retrieval for function-level binary source code matching
 
