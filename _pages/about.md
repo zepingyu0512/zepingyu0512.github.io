@@ -62,25 +62,31 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 # 📝 Publications
 \* Equal contribution
 
-[Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://aclanthology.org/2025.findings-emnlp.372.pdf)
+### Mechanism-Guided Improvement of LLM Capabilities
 
-**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2025 (findings)**\]
+Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs
 
-[Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models](https://aclanthology.org/2025.emnlp-main.567.pdf)
+**Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2025 (findings)**\]](](https://aclanthology.org/2025.findings-emnlp.372.pdf))
 
-**Zeping Yu**, Yonatan Belinkov, Sophia Ananiadou \[**EMNLP 2025 (main)**\]
+Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models
+
+**Zeping Yu**, Yonatan Belinkov, Sophia Ananiadou [\[**EMNLP 2025 (main)**\]](https://aclanthology.org/2025.emnlp-main.567.pdf)
 
 [Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing](https://arxiv.org/pdf/2501.14457)
 
-**Zeping Yu**, Sophia Ananiadou \[**arxiv 2025.1**\]
-
-[Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950)
-
-**Zeping Yu**, Sophia Ananiadou \[**arxiv 2024.11**\]
+**Zeping Yu**, Sophia Ananiadou \[**preprint**\]
 
 [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
 
 **Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024 (main)**\]
+
+
+
+### Interpretability and Diagnostic Analysis of LLMs
+
+[Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950)
+
+**Zeping Yu**, Sophia Ananiadou \[**preprint**\]
 
 [How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/)
 
@@ -91,6 +97,9 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 **Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024 (main)**\]
 
 [CodeCMR: Cross-modal retrieval for function-level binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
+
+
+### Earlier Work
 
 **Zeping Yu**, Wenxin Zheng, Jiaqi Wang, Qiyi Tang, Sen Nie, Shi Wu \[**NeurIPS 2020**\]
 
