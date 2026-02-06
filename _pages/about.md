@@ -33,21 +33,21 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 
 I develop interpretability methods, tools, and systems to diagnose, audit, and improve the behavior of LLMs and multimodal LLMs.
 
-1. **VQALens (System Demo): debugging multimodal LLMs via token-level grounding** [[demo]](https://arxiv.org/pdf/2411.10950)
+1. VQALens (System Demo): An interpretability system for diagnosing errors, shortcuts, and hallucinations in VQA. [[demo]](https://arxiv.org/pdf/2411.10950)
 
-2. **Neuron-Level Attribution (EMNLP 2024): Identifying important neurons for model diagnosis** [[paper]](https://aclanthology.org/2024.emnlp-main.191.pdf)
+2. Neuron-Level Attribution (EMNLP 2024): Identifying important neurons for model diagnosis [[paper]](https://aclanthology.org/2024.emnlp-main.191.pdf)
   
-3. **In-Context Learning Mechanisms (EMNLP 2024): Understanding how LLMs perform ICL** [[paper]](https://aclanthology.org/2024.emnlp-main.192.pdf)
+3. In-Context Learning Mechanisms (EMNLP 2024): Understanding how LLMs perform ICL [[paper]](https://aclanthology.org/2024.emnlp-main.192.pdf)
 
 **b) Mechanism-Guided Improvement of LLM Capabilities** 
 
 Beyond diagnosis and audit, I design mechanism-guided modules and algorithms to improve the reasoning capability and robustness of LLMs and MLLMs.
   
-1. **Back Attention (EMNLP 2025): Improving latent multi-hop reasoning in LLMs** [[paper]](https://aclanthology.org/2025.emnlp-main.567.pdf)
+1. Back Attention (EMNLP 2025): Improving latent multi-hop reasoning in LLMs [[paper]](https://aclanthology.org/2025.emnlp-main.567.pdf)
      
-2. **Locate-then-Merge (EMNLP 2025): Mitigating catastrophic forgetting in MLLMs** [[paper]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
+2. Locate-then-Merge (EMNLP 2025): Mitigating catastrophic forgetting in MLLMs [[paper]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
 
-3. **Arithmetic Reasoning via CNA (EMNLP 2024): Analysis and pruning for arithmetic tasks** [[paper]](https://aclanthology.org/2024.emnlp-main.193.pdf)
+3. Arithmetic Reasoning via CNA (EMNLP 2024): Analysis and pruning for arithmetic tasks [[paper]](https://aclanthology.org/2024.emnlp-main.193.pdf)
 
 
 # 🔥 News
