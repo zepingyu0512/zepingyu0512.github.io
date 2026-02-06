@@ -93,13 +93,13 @@ My research aims to make LLMs interpretable at the token and neuron level, and t
 
 - **Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2411.10950)
 
-\[P6\] How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning
-
-- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://zepingyu0512.github.io/in-context-mechanism.github.io/)
-
-\[P7\] Neuron-Level Knowledge Attribution in Large Language Models
+\[P6\] Neuron-Level Knowledge Attribution in Large Language Models
 
 - **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://zepingyu0512.github.io/neuron-attribution.github.io/)
+
+\[P7\] How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning
+
+- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://zepingyu0512.github.io/in-context-mechanism.github.io/)
 
 ---
 
