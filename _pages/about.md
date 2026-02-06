@@ -20,7 +20,7 @@ redirect_from:
 
 # 📖 About Me
 
-I am a PhD student at the University of Manchester and the [NaCTeM](https://www.nactem.ac.uk/) group, supervised by Prof. [Sophia Ananiadou](https://research.manchester.ac.uk/en/persons/sophia.ananiadou). Previously, I worked as an NLP researcher at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu. 
+I am a PhD student at the University of Manchester and the NaCTeM group, supervised by Prof. Sophia Ananiadou. Previously, I worked as an NLP researcher at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu. 
 
 My research topic is **Interpreting and Improving Large Language Models -- From Internal Mechanisms to Reliable and Capable Systems**.
 
@@ -35,15 +35,15 @@ I develop interpretability methods, tools, and systems to diagnose, audit, and i
 
 1. **VQALens (System Demo): debugging multimodal LLMs via token-level grounding**
 
-   - A token-level interpretability system for diagnosing errors, shortcuts, and hallucinations in VQA. [demo](https://arxiv.org/pdf/2411.10950)
+   - A token-level interpretability system for diagnosing errors, shortcuts, and hallucinations in VQA. [[demo]](https://arxiv.org/pdf/2411.10950)
 
 2. **Neuron-Level Attribution (EMNLP 2024): Identifying important neurons for model diagnosis**
 
-   - Proposes a neuron-level attribution method for mechanistic interpretability. [paper](https://aclanthology.org/2024.emnlp-main.191.pdf)
+   - Proposes a neuron-level attribution method for mechanistic interpretability. [[paper]](https://aclanthology.org/2024.emnlp-main.191.pdf)
   
 3. **In-Context Learning Mechanisms (EMNLP 2024): Understanding how LLMs perform ICL**
 
-   - Analyzes the internal mechanisms underlying in-context learning. [paper](https://aclanthology.org/2024.emnlp-main.192.pdf)
+   - Analyzes the internal mechanisms underlying in-context learning. [[paper]](https://aclanthology.org/2024.emnlp-main.192.pdf)
 
 **b) Mechanism-Guided Design for Improving LLM & MLLM Capabilities** 
 
@@ -51,15 +51,15 @@ Beyond diagnosis and audit, I design mechanism-guided modules and algorithms to 
   
 1. **Back Attention (EMNLP 2025): Improving latent multi-hop reasoning via mechanism-guided routing**
 
-   - Introduces a new attention module that improves LLMs' latent multi-hop reasoning ability. [paper](https://aclanthology.org/2025.emnlp-main.567.pdf)
+   - Introduces a new attention module that improves LLMs' latent multi-hop reasoning ability. [[paper]](https://aclanthology.org/2025.emnlp-main.567.pdf)
      
 2. **Locate-then-Merge (EMNLP 2025): Mitigating catastrophic forgetting in MLLMs**
    
-   - Proposes a model merging framework to preserve language capability after multimodal adaptation. [paper](https://aclanthology.org/2025.findings-emnlp.372.pdf)
+   - Proposes a model merging framework to preserve language capability after multimodal adaptation. [[paper]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
 
 3. **Arithmetic Reasoning via CNA (EMNLP 2024): Mechanistic analysis and pruning for arithmetic tasks**
 
-   - Analyzes computation stages in arithmetic reasoning and enables targeted pruning. [paper](https://aclanthology.org/2024.emnlp-main.193.pdf)
+   - Analyzes computation stages in arithmetic reasoning and enables targeted pruning. [[paper]](https://aclanthology.org/2024.emnlp-main.193.pdf)
 
 
 # 🔥 News
