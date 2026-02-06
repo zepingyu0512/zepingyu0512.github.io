@@ -22,7 +22,7 @@ redirect_from:
 
 I am a PhD researcher at the University of Manchester and the NaCTeM group, supervised by Prof. Sophia Ananiadou. Previously, I worked as an NLP researcher at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu. 
 
-My research topic is **Interpreting and Improving Large Language Models -- From Internal Mechanisms to Reliable and Capable Systems**. I develop tools and methods to explain, debug, and enhance LLMs/MLLMs — grounding predictions to diagnose failures and build more trustworthy systems. [My resume](/assets/resume_zepingyu_2026_foxmail.pdf)
+My research topic is **Interpreting and Improving Large Language Models -- From Internal Mechanisms to Reliable and Capable Systems**. I develop tools and methods to explain, debug, and enhance LLMs/MLLMs — grounding predictions to diagnose failures and build more trustworthy systems.
 
 <span style="color:purple;">I am actively seeking Research Scientist and Applied Scientist positions starting in Fall 2026. Please feel free to contact me at zepingyu@foxmail.com if you have any suitable openings!</span>
 
