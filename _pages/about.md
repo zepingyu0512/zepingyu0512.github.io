@@ -41,7 +41,7 @@ I develop interpretability methods, tools, and systems to diagnose, audit, and i
 
 2. **Diagnosing LLMs: advanced capabilities**
 
-   - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Diagnosing why LLMs fail in latent multi-hop reasoning cases.
+   - [EMNLP 2025-a](https://aclanthology.org/2025.emnlp-main.567.pdf): Diagnosing why LLMs fail in latent multi-hop reasoning cases.
    - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Debugging multimodal LLMs in VQA cases.
 
 **b) Improving LLM Capabilities** 
@@ -50,14 +50,16 @@ Beyond diagnosis, I am interested in improving the capabilities of LLMs.
 
 1. **Improving LLMs' latent multi-hop reasoning ability using back attention module**
 
-   - [EMNLP 2025-a](https://arxiv.org/pdf/2502.10835): Designing a new module, "back attention", to improve LLMs' latent multi-hop reasoning ability.
+   - [EMNLP 2025-a](https://aclanthology.org/2025.emnlp-main.567.pdf): Designing a new module, "back attention", to improve LLMs' latent multi-hop reasoning ability.
      
 2. **Mitigating MLLMs' catastrophic forgetting problem through model merging after post-training**
    
-   - [EMNLP 2025-b](https://arxiv.org/pdf/2505.16703): Designing the locate-then-merge framework for merging base LLM and post-trained LLM, to mitigate the catastrophic forgetting problem.
+   - [EMNLP 2025-b](https://aclanthology.org/2025.findings-emnlp.372.pdf): Designing the locate-then-merge framework for merging base LLM and post-trained LLM, to mitigate the catastrophic forgetting problem.
 
 
 # 🔥 News
+
+- *2026.02*: Survey: "Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models".
 
 - *2025.08*: Our work "Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models" is accepted by EMNLP 2025 (main).
 
