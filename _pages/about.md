@@ -29,7 +29,7 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 
 # 📝 Research Interests
 
-**a) Interpretability, Debugging, and System-Level Tools** 
+**a) Mechanistic Interpretability and Diagnostic Analysis of LLMs** 
 
 - VQALens: A system for diagnosing errors, shortcuts, and hallucinations. [[System Demo]](https://arxiv.org/pdf/2411.10950)
 
@@ -50,23 +50,13 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 
 - *2026.02*: New survey: "Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models".
 
-- *2025.08*: Our work "Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models" is accepted by EMNLP 2025 (main).
+- *2025.08*: Two papers are accepted by EMNLP 2025.
 
-- *2025.08*: Our work "Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs" is accepted by EMNLP 2025 (findings).
+- *2024.12*: Paper lists of [SAE](https://github.com/zepingyu0512/awesome-SAE) and [neuron](https://github.com/zepingyu0512/awesome-LLM-neuron) in LLMs.
 
-- *2025.01*: New preprint: "Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing".
+- *2024.09*: Three papers are accepted by EMNLP 2024.
 
-- *2024.12*: I've compiled paper lists of [SAE](https://github.com/zepingyu0512/awesome-SAE) and [neuron in LLMs](https://github.com/zepingyu0512/awesome-LLM-neuron).
-
-- *2024.11*: New preprint: "Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering".
-
-- *2024.09*: Our work "Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis" is accepted by EMNLP 2024 (main).
-
-- *2024.09*: Our work "How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning" is accepted by EMNLP 2024 (main).
-
-- *2024.09*: Our work "Neuron-Level Knowledge Attribution in Large Language Models" is accepted by EMNLP 2024 (main).
-
-- *2024.04*: I've compiled a [paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) for those interested in exploring the mechanisms of LLMs.
+- *2024.04*: [Paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) of LLM interpretability.
 
 
 # 📝 Publications
