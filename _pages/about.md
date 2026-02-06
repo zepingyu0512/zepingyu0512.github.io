@@ -67,7 +67,7 @@ My research aims to make LLMs interpretable at the token and neuron level, and t
 
 ---
 
-\[P1\] Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs
+\[P1\] Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting
 
 - **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2025 (Findings)**\]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
 
@@ -89,7 +89,7 @@ My research aims to make LLMs interpretable at the token and neuron level, and t
 
 ---
 
-\[P5\] Understanding Multimodal LLMs: the Mechanistic Interpretability of LLaVA in Visual Question Answering
+\[P5\] Understanding Multimodal LLMs: the Mechanistic Interpretability of LLaVA in VQA
 
 - **Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2411.10950)
 
