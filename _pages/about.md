@@ -29,32 +29,32 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 
 # 📝 Research Interests
 
-**a) Diagnosing, Auditing, and building self-improvement systems via mechanistic intepretability** 
+**a) Mechanistic Interpretability for Diagnosis, Audit, and Self-Improvement in LLMs & MLLMs** 
 
 I develop interpretability methods, tools, and systems to diagnose, audit, and improve the behavior of LLMs and multimodal LLMs.
 
 1. **Analyzing LLMs: basic capabilities**
 
-   - [EMNLP 2024-a](https://aclanthology.org/2024.emnlp-main.191.pdf): An attribution method for identifying important neurons.
-   - [EMNLP 2024-b](https://aclanthology.org/2024.emnlp-main.193.pdf): Analyzing the information flow of arithmetic operations.
-   - [EMNLP 2024-c](https://aclanthology.org/2024.emnlp-main.192.pdf): Analyzing the mechanism of in-context learning.
+   - [EMNLP 2024](https://aclanthology.org/2024.emnlp-main.191.pdf): An attribution method for identifying important neurons.
+   - [EMNLP 2024](https://aclanthology.org/2024.emnlp-main.193.pdf): Analyzing the information flow of arithmetic operations.
+   - [EMNLP 2024](https://aclanthology.org/2024.emnlp-main.192.pdf): Analyzing the mechanism of in-context learning.
 
 2. **Diagnosing LLMs: advanced capabilities**
 
-   - [EMNLP 2025-a](https://aclanthology.org/2025.emnlp-main.567.pdf): Diagnosing why LLMs fail in latent multi-hop reasoning cases.
+   - [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.567.pdf): Diagnosing why LLMs fail in latent multi-hop reasoning cases.
    - [arXiv 2024.11](https://arxiv.org/pdf/2411.10950): Debugging multimodal LLMs in VQA cases.
 
-**b) Improving LLM Capabilities** 
+**b) Mechanism-Guided Design for Improving LLM & MLLM Capabilities** 
 
-Beyond diagnosis, I am interested in improving the capabilities of LLMs.
+Beyond diagnosis and audit, I design mechanism-guided modules/algorithms to improve LLM capability and reliability.
 
 1. **Improving LLMs' latent multi-hop reasoning ability using back attention module**
 
-   - [EMNLP 2025-a](https://aclanthology.org/2025.emnlp-main.567.pdf): Designing a new module, "back attention", to improve LLMs' latent multi-hop reasoning ability.
+   - [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.567.pdf): Designing a new module, "back attention", to improve LLMs' latent multi-hop reasoning ability.
      
 2. **Mitigating MLLMs' catastrophic forgetting problem through model merging after post-training**
    
-   - [EMNLP 2025-b](https://aclanthology.org/2025.findings-emnlp.372.pdf): Designing the locate-then-merge framework for merging base LLM and post-trained LLM, to mitigate the catastrophic forgetting problem.
+   - [EMNLP 2025](https://aclanthology.org/2025.findings-emnlp.372.pdf): Designing the locate-then-merge framework for merging base LLM and post-trained LLM, to mitigate the catastrophic forgetting problem.
 
 
 # 🔥 News
