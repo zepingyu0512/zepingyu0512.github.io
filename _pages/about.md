@@ -31,8 +31,6 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 
 **a) Interpretability, Debugging, and System-Level Tools** 
 
-I develop interpretability methods, tools, and systems to diagnose, audit, and improve the behavior of LLMs and multimodal LLMs.
-
 1. VQALens (System Demo): An interpretability system for diagnosing errors, shortcuts, and hallucinations in VQA. [[demo]](https://arxiv.org/pdf/2411.10950)
 
 2. Neuron-Level Attribution (EMNLP 2024): Identifying important neurons for model diagnosis [[paper]](https://aclanthology.org/2024.emnlp-main.191.pdf)
@@ -40,8 +38,6 @@ I develop interpretability methods, tools, and systems to diagnose, audit, and i
 3. In-Context Learning Mechanisms (EMNLP 2024): Understanding how LLMs perform ICL [[paper]](https://aclanthology.org/2024.emnlp-main.192.pdf)
 
 **b) Mechanism-Guided Improvement of LLM Capabilities** 
-
-Beyond diagnosis and audit, I design mechanism-guided modules and algorithms to improve the reasoning capability and robustness of LLMs and MLLMs.
   
 1. Back Attention (EMNLP 2025): Improving latent multi-hop reasoning in LLMs [[paper]](https://aclanthology.org/2025.emnlp-main.567.pdf)
      
