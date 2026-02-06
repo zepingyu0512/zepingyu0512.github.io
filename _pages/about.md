@@ -20,7 +20,7 @@ redirect_from:
 
 # 📖 About Me
 
-I am a PhD student at the University of Manchester and the NaCTeM group, supervised by Prof. Sophia Ananiadou. Previously, I worked as an NLP researcher at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu. 
+I am a PhD researcher at the University of Manchester and the NaCTeM group, supervised by Prof. Sophia Ananiadou. Previously, I worked as an NLP researcher at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu. 
 
 My research topic is **Interpreting and Improving Large Language Models -- From Internal Mechanisms to Reliable and Capable Systems**. I develop tools and methods to explain, debug, and enhance LLMs/MLLMs — grounding predictions to diagnose failures and build more trustworthy systems.
 
@@ -29,13 +29,15 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 
 # 📝 Research Interests
 
+My research aims to make LLMs interpretable at the token and neuron level, and to use this understanding to design more reliable and capable systems.
+
 **a) Mechanistic Interpretability and Diagnostic Analysis of LLMs** 
 
-- VQALens: A system for diagnosing errors, shortcuts, and hallucinations. [[System Demo]](https://arxiv.org/pdf/2411.10950)
+- VQALens: Diagnosing errors, shortcuts, and hallucinations in MLLMs. [[System Demo]](https://arxiv.org/pdf/2411.10950)
 
-- Neuron-Level Attribution: Identifying important neurons for model diagnosis [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.191.pdf)
+- Neuron-Level Attribution: Identifying important neurons for model diagnosis. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.191.pdf)
   
-- In-Context Learning Mechanisms: Understanding how LLMs perform ICL [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.192.pdf)
+- In-Context Learning Mechanisms: Understanding how LLMs perform in-context learning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.192.pdf)
 
 **b) Mechanism-Guided Improvement of LLM Capabilities** 
   
