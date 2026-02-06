@@ -83,11 +83,11 @@ Beyond diagnosis, I am interested in improving the capabilities of LLMs.
 # 📝 Publications
 \* Equal contribution
 
-[Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/pdf/2505.16703)
+[Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://aclanthology.org/2025.findings-emnlp.372.pdf)
 
 **Zeping Yu**, Sophia Ananiadou \[**EMNLP 2025 (findings)**\]
 
-[Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models](https://arxiv.org/pdf/2502.10835)
+[Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models](https://aclanthology.org/2025.emnlp-main.567.pdf)
 
 **Zeping Yu**, Yonatan Belinkov, Sophia Ananiadou \[**EMNLP 2025 (main)**\]
 
