@@ -31,7 +31,7 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 
 **a) Interpretability, Debugging, and System-Level Tools** 
 
-- VQALens: An interpretability system for diagnosing errors, shortcuts, and hallucinations. [[System Demo]](https://arxiv.org/pdf/2411.10950)
+- VQALens: A system for diagnosing errors, shortcuts, and hallucinations. [[System Demo]](https://arxiv.org/pdf/2411.10950)
 
 - Neuron-Level Attribution: Identifying important neurons for model diagnosis [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.191.pdf)
   
