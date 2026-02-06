@@ -37,7 +37,7 @@ My research aims to make LLMs interpretable at the token and neuron level, and t
 
 - Neuron-Level Attribution: Identifying important neurons for model diagnosis. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.191.pdf)
   
-- In-Context Learning Mechanisms: Understanding how LLMs perform in-context learning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.192.pdf)
+- In-Context Learning: Understanding how LLMs perform in-context learning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.192.pdf)
 
 **b) Mechanism-Guided Improvement of LLM Capabilities** 
   
