@@ -66,54 +66,56 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 
 Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs
 
-**Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2025 (findings)**\]](](https://aclanthology.org/2025.findings-emnlp.372.pdf))
+**Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2025 (findings)**\]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
 
 Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models
 
 **Zeping Yu**, Yonatan Belinkov, Sophia Ananiadou [\[**EMNLP 2025 (main)**\]](https://aclanthology.org/2025.emnlp-main.567.pdf)
 
-[Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing](https://arxiv.org/pdf/2501.14457)
+Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing
 
-**Zeping Yu**, Sophia Ananiadou \[**preprint**\]
+**Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2501.14457)
 
-[Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
+Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis
 
-**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024 (main)**\]
+**Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (main)**\]](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
 
 
 
 ### Interpretability and Diagnostic Analysis of LLMs
 
-[Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/pdf/2411.10950)
+Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering
 
-**Zeping Yu**, Sophia Ananiadou \[**preprint**\]
+**Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2411.10950)
 
-[How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/)
+How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning
 
-**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024 (main)**\]
+**Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (main)**\]](https://zepingyu0512.github.io/in-context-mechanism.github.io/)
 
-[Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/)
+Neuron-Level Knowledge Attribution in Large Language Models
 
-**Zeping Yu**, Sophia Ananiadou \[**EMNLP 2024 (main)**\]
+**Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (main)**\]](https://zepingyu0512.github.io/neuron-attribution.github.io/)
 
-[CodeCMR: Cross-modal retrieval for function-level binary source code matching](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
+
 
 
 ### Earlier Work
 
-**Zeping Yu**, Wenxin Zheng, Jiaqi Wang, Qiyi Tang, Sen Nie, Shi Wu \[**NeurIPS 2020**\]
+CodeCMR: Cross-modal retrieval for function-level binary source code matching
 
-[Order matters: Semantic-aware neural networks for binary code similarity detection](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf) 
+**Zeping Yu**, Wenxin Zheng, Jiaqi Wang, Qiyi Tang, Sen Nie, Shi Wu [\[**NeurIPS 2020**\]](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
 
-**Zeping Yu**\*, Rui Cao\* , Qiyi Tang, Sen Nie, Junzhou Huang, Shi Wu \[**AAAI 2020**\]
+Order matters: Semantic-aware neural networks for binary code similarity detection
 
-[Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation](https://www.ijcai.org/proceedings/2019/0585.pdf) 
+**Zeping Yu**\*, Rui Cao\* , Qiyi Tang, Sen Nie, Junzhou Huang, Shi Wu [\[**AAAI 2020**\]](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf) 
 
-**Zeping Yu**, Jianxun Lian, Ahmad Mahmoody, Gongshen Liu, Xing Xie \[**IJCAI 2019**\]
+Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation
 
-[Sliced recurrent neural networks](https://arxiv.org/pdf/1807.02291.pdf) 
+**Zeping Yu**, Jianxun Lian, Ahmad Mahmoody, Gongshen Liu, Xing Xie [\[**IJCAI 2019**\]](https://www.ijcai.org/proceedings/2019/0585.pdf) 
 
-**Zeping Yu**, Gongshen Liu \[**COLING 2018**\]
+Sliced recurrent neural networks
+
+**Zeping Yu**, Gongshen Liu [\[**COLING 2018**\]](https://arxiv.org/pdf/1807.02291.pdf) 
 
 
 # 📖 Educations
