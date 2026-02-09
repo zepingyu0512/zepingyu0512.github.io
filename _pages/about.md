@@ -33,7 +33,7 @@ My research aims to make LLMs interpretable at the token and neuron level, and t
 
 **a) Mechanistic Interpretability and Diagnostic Analysis of LLMs** 
 
-- VQALens: Diagnosing errors, shortcuts, and hallucinations in MLLMs. [[System Demo]](https://arxiv.org/pdf/2411.10950)
+- VQALens: Diagnosing errors, shortcuts, and hallucinations in MLLMs. [[System Demo]](https://www.youtube.com/watch?v=F5EYcGfqaQU)
 
 - Neuron-Level Attribution: Identifying important neurons for model diagnosis. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.191.pdf)
   
