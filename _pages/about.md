@@ -29,7 +29,7 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 
 # 📝 Research Interests
 
-My research aims to make LLMs interpretable at the token and neuron level, and to use this understanding to design more reliable and capable systems.
+My research aims to improve the capabilities of LLMs by analyzing their internal mechanisms at the token and neuron levels, and leveraging this understanding to design more reliable and effective systems.
 
 **a) Mechanistic Interpretability and Diagnostic Analysis of LLMs** 
 
@@ -43,11 +43,11 @@ My research aims to make LLMs interpretable at the token and neuron level, and t
   
 - Back Attention: Improving latent multi-hop reasoning in LLMs. [[EMNLP 2025]](https://aclanthology.org/2025.emnlp-main.567.pdf)
      
-- Locate-then-Merge: Mitigating catastrophic forgetting in MLLMs. [[EMNLP 2025]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
+- Model Merging: Mitigating catastrophic forgetting in MLLMs. [[EMNLP 2025]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
 
-- Arithmetic Reasoning via CNA: Analysis and pruning for arithmetic tasks. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.193.pdf)
+- Model Pruning: Improving arithmetic reasoning through model pruning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.193.pdf)
 
-- Bias Mitigation via Model Editing: Reducing gender bias in LLMs. [[Preprint]](https://arxiv.org/pdf/2501.14457)
+- Model Editing: Reducing gender bias in LLMs via targeted model editing. [[Preprint]](https://arxiv.org/pdf/2501.14457)
 
 
 # 🔥 News
