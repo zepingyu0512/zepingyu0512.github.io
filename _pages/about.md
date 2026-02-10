@@ -22,7 +22,7 @@ redirect_from:
 
 I am a PhD researcher at the University of Manchester and the NaCTeM group, supervised by Prof. Sophia Ananiadou. Previously, I worked as an NLP researcher at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu. 
 
-My research topic is **Interpreting and Improving Large Language Models -- From Internal Mechanisms to Reliable and Capable Systems**. I develop tools and methods to explain, debug, and enhance LLMs/MLLMs — grounding predictions to diagnose failures and build more trustworthy systems.
+My research topic is **Interpreting and Improving Large Language Models -- From Internal Mechanisms to Reliable and Capable Systems**. My primary methodology follows a diagnose-and-improve paradigm: I first analyze why LLMs fail, and then design targeted methods or architectural modules to enhance their capabilities, for example in latent multi-hop reasoning and catastrophic forgetting.
 
 <span style="color:purple;">I am actively seeking Research Scientist and Applied Scientist positions starting in Fall 2026. Please feel free to contact me at zepingyu@foxmail.com if you have any suitable openings!</span>
 
@@ -39,13 +39,15 @@ My research aims to make LLMs interpretable at the token and neuron level, and t
   
 - In-Context Learning: Understanding how LLMs perform in-context learning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.192.pdf)
 
-**b) Mechanism-Guided Improvement of LLM Capabilities** 
+**b) Improvement of LLM Capabilities** 
   
-- Back Attention: Improving latent multi-hop reasoning in LLMs [[EMNLP 2025]](https://aclanthology.org/2025.emnlp-main.567.pdf)
+- Back Attention: Improving latent multi-hop reasoning in LLMs. [[EMNLP 2025]](https://aclanthology.org/2025.emnlp-main.567.pdf)
      
-- Locate-then-Merge: Mitigating catastrophic forgetting in MLLMs [[EMNLP 2025]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
+- Locate-then-Merge: Mitigating catastrophic forgetting in MLLMs. [[EMNLP 2025]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
 
-- Arithmetic Reasoning via CNA: Analysis and pruning for arithmetic tasks [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.193.pdf)
+- Arithmetic Reasoning via CNA: Analysis and pruning for arithmetic tasks. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.193.pdf)
+
+- Bias Mitigation via Model Editing: Reducing gender bias in LLMs. [[Preprint]](https://arxiv.org/pdf/2501.14457)
 
 
 # 🔥 News
