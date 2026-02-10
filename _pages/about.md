@@ -35,19 +35,19 @@ My research aims to improve the capabilities of LLMs by analyzing their internal
 
 - VQALens: Diagnosing errors, shortcuts, and hallucinations in MLLMs. [[System Demo]](https://www.youtube.com/watch?v=F5EYcGfqaQU)
 
-- Neuron-Level Attribution: Identifying important neurons for model diagnosis. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.191.pdf)
+- Neuron-Level Attribution: Identifying important neurons for LLM diagnosis. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.191.pdf)
   
-- Head-Level Analysis: Understanding how LLMs perform in-context learning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.192.pdf)
+- Head-Level Attribution: Understanding how LLMs perform in-context learning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.192.pdf)
 
 **b) Enhancing LLM Capabilities through Mechanistic Understanding** 
   
-- Back Attention: Improving latent multi-hop reasoning in LLMs. [[EMNLP 2025]](https://aclanthology.org/2025.emnlp-main.567.pdf)
+- Back-Attention Module: Improving latent multi-hop reasoning in LLMs. [[EMNLP 2025]](https://aclanthology.org/2025.emnlp-main.567.pdf)
      
-- Model Merging: Mitigating catastrophic forgetting in MLLMs. [[EMNLP 2025]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
+- Locate-then-Merge: Mitigating catastrophic forgetting in MLLMs. [[EMNLP 2025]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
 
-- Model Pruning: Improving arithmetic reasoning through model pruning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.193.pdf)
+- Locate-then-Prune: Improving arithmetic reasoning through model pruning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.193.pdf)
 
-- Model Editing: Reducing gender bias in LLMs via model editing. [[Preprint]](https://arxiv.org/pdf/2501.14457)
+- Locate-then-Edit: Reducing gender bias in LLMs via model editing. [[Preprint]](https://arxiv.org/pdf/2501.14457)
 
 
 # 🔥 News
@@ -79,7 +79,7 @@ My research aims to improve the capabilities of LLMs by analyzing their internal
 
 \[P3\] Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis
 
-- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
+- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://aclanthology.org/2024.emnlp-main.193.pdf)
 
 \[P4\] Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing
 
@@ -93,11 +93,11 @@ My research aims to improve the capabilities of LLMs by analyzing their internal
 
 \[P5\] Neuron-Level Knowledge Attribution in Large Language Models
 
-- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://zepingyu0512.github.io/neuron-attribution.github.io/)
+- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://aclanthology.org/2024.emnlp-main.191.pdf)
 
 \[P6\] How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning
 
-- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://zepingyu0512.github.io/in-context-mechanism.github.io/)
+- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://aclanthology.org/2024.emnlp-main.192.pdf)
 
 \[P7\] Understanding Multimodal LLMs: the Mechanistic Interpretability of LLaVA in VQA
 
