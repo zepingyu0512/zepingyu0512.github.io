@@ -37,7 +37,7 @@ My research aims to improve the capabilities of LLMs by analyzing their internal
 
 - Neuron-Level Attribution: Identifying important neurons for model diagnosis. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.191.pdf)
   
-- In-Context Learning: Understanding how LLMs perform in-context learning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.192.pdf)
+- Head-Level Analysis: Understanding how LLMs perform in-context learning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.192.pdf)
 
 **b) Enhancing LLM Capabilities through Mechanistic Understanding** 
   
@@ -65,47 +65,47 @@ My research aims to improve the capabilities of LLMs by analyzing their internal
 
 # 📝 Publications
 
-### Mechanism-Guided Improvement of LLM Capabilities
+### Enhancing LLM Capabilities through Mechanistic Understanding
 
 ---
 
-\[P1\] Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting
-
-- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2025 (Findings)**\]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
-
-\[P2\] Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models
+\[P1\] Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models
 
 - **Zeping Yu**, Yonatan Belinkov, Sophia Ananiadou [\[**EMNLP 2025 (Main)**\]](https://aclanthology.org/2025.emnlp-main.567.pdf)
 
-\[P3\] Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing
+\[P2\] Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting
 
-- **Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2501.14457)
+- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2025 (Findings)**\]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
 
-\[P4\] Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis
+\[P3\] Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis
 
 - **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
 
+\[P4\] Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing
+
+- **Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2501.14457)
+
 ---
 
-### Interpretability and Diagnostic Analysis of LLMs
+### Understanding and Diagnosing LLMs through Mechanistic Interpretability
 
 ---
 
-\[P5\] Understanding Multimodal LLMs: the Mechanistic Interpretability of LLaVA in VQA
-
-- **Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2411.10950)
-
-\[P6\] Neuron-Level Knowledge Attribution in Large Language Models
+\[P5\] Neuron-Level Knowledge Attribution in Large Language Models
 
 - **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://zepingyu0512.github.io/neuron-attribution.github.io/)
 
-\[P7\] How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning
+\[P6\] How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning
 
 - **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://zepingyu0512.github.io/in-context-mechanism.github.io/)
 
+\[P7\] Understanding Multimodal LLMs: the Mechanistic Interpretability of LLaVA in VQA
+
+- **Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2411.10950)
+
 ---
 
-### Earlier Work
+### Earlier Work in Deep Learning
 
 ---
 
@@ -127,6 +127,6 @@ My research aims to improve the capabilities of LLMs by analyzing their internal
 
 
 # 📖 Educations
-- *2023.09 - 2026.09 (Expected)*, PhD of Computer Science, University of Manchester.
+- *2023.09 - 2026.09*, PhD of Computer Science, University of Manchester.
 - *2017.09 - 2020.03*, Master of Computer Science, Shanghai Jiao Tong University.
 - *2013.09 - 2017.06*, Bachelor of Engineering, Shanghai Jiao Tong University.
