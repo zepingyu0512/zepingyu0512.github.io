@@ -29,7 +29,7 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 
 # 📝 Research Interests
 
-My research aims to improve the capabilities of LLMs by analyzing their internal mechanisms at the token and neuron levels, and leveraging this understanding to design more reliable and effective systems.
+My research aims to improve the capabilities of LLMs by analyzing their internal mechanisms, and leveraging this understanding to design more reliable and effective systems.
 
 **a) Understanding and Diagnosing LLMs through Mechanistic Interpretability** 
 
