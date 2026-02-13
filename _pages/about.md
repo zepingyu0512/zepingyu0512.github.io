@@ -20,7 +20,7 @@ redirect_from:
 
 # 📖 About Me
 
-I am a PhD researcher at the University of Manchester, supervised by Prof. Sophia Ananiadou. Previously, I worked as an NLP researcher at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
+I am a PhD researcher at the University of Manchester, supervised by Prof. Sophia Ananiadou. Previously, I worked as an NLP research engineer at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
 
 My research topic is **Interpreting and Improving Large Language Models -- From Internal Mechanisms to Reliable and Capable Systems**. My primary methodology follows a diagnose-and-improve paradigm: I first analyze why LLMs fail, and then design targeted methods or architectural modules to enhance their capabilities, for example in latent multi-hop reasoning and catastrophic forgetting.
 
