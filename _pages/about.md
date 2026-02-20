@@ -31,7 +31,7 @@ My research topic is **Interpreting and Improving Large Language Models -- From 
 
 My research aims to improve the capabilities of LLMs by analyzing their internal mechanisms, and leveraging this understanding to design more reliable and capable systems.
 
-**a) Understanding and Diagnosing LLMs through Mechanistic Interpretability** 
+**a) Analyzing and Diagnosing LLMs through Mechanistic Interpretability** 
 
 - VQALens: Diagnosing errors, shortcuts, and hallucinations in MLLMs. [[System Demo]](https://www.youtube.com/watch?v=F5EYcGfqaQU)
 
@@ -39,7 +39,7 @@ My research aims to improve the capabilities of LLMs by analyzing their internal
   
 - Head-Level Attribution: Understanding how LLMs perform in-context learning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.192.pdf)
 
-**b) Enhancing LLM Capabilities through Mechanistic Understanding** 
+**b) Improving Capabilities of LLMs and Multimodal LLMs** 
   
 - Back-Attention Module: Improving latent multi-hop reasoning in LLMs. [[EMNLP 2025]](https://aclanthology.org/2025.emnlp-main.567.pdf)
      
