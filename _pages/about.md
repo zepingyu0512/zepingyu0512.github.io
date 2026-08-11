@@ -119,10 +119,6 @@ My research aims to improve the capabilities of LLMs by analyzing their internal
 
 - **Zeping Yu**, Jianxun Lian, Ahmad Mahmoody, Gongshen Liu, Xing Xie [\[**IJCAI 2019**\]](https://www.ijcai.org/proceedings/2019/0585.pdf) 
 
-\[E4\] Sliced recurrent neural networks
-
-- **Zeping Yu**, Gongshen Liu [\[**COLING 2018**\]](https://arxiv.org/pdf/1807.02291.pdf) 
-
 
 # 📖 Educations
 - *2023.09 - 2026.09*, PhD of Computer Science, University of Manchester.
