@@ -22,9 +22,7 @@ redirect_from:
 
 I am a PhD researcher at the University of Manchester, supervised by Prof. Sophia Ananiadou. Previously, I worked as an NLP research engineer at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
 
-My research topic is **Interpreting and Improving Large Language Models -- From Internal Mechanisms to Reliable and Capable Systems**. My primary methodology follows a diagnose-and-improve paradigm: I first analyze why LLMs fail, and then design targeted methods or architectural modules to enhance their capabilities, for example in latent multi-hop reasoning and catastrophic forgetting.
-
-<span style="color:purple;">I am actively seeking Research Scientist and Applied Scientist positions starting in Fall 2026. Please feel free to contact me at zepingyu@foxmail.com if you have any suitable openings!</span>
+My research topic is **Understanding and Improving Large Language Models**. My primary methodology follows a diagnose-and-improve paradigm: I first analyze why LLMs fail, and then design targeted methods or architectural modules to enhance their capabilities, for example in latent multi-hop reasoning and catastrophic forgetting.
 
 
 # 📝 Research Interests
@@ -33,7 +31,7 @@ My research aims to improve the capabilities of LLMs by analyzing their internal
 
 **a) Analyzing and Diagnosing LLMs through Mechanistic Interpretability** 
 
-- VQALens: Diagnosing errors, shortcuts, and hallucinations in MLLMs. [[System Demo]](https://www.youtube.com/watch?v=F5EYcGfqaQU)
+  - VQALens: Diagnosing errors, shortcuts, and hallucinations in MLLMs. [[Preprint]]()
 
 - Neuron-Level Attribution: Identifying important neurons for LLM diagnosis. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.191.pdf)
   
