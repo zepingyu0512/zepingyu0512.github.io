@@ -20,65 +20,51 @@ redirect_from:
 
 # 📖 About Me
 
-I am a PhD at the University of Manchester, supervised by Prof. Sophia Ananiadou. Previously, I worked as a research scientist at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
+I received my PhD in Computer Science from the University of Manchester, supervised by Prof. Sophia Ananiadou. Previously, I worked as a Research Scientist at Tencent in Shanghai. I received both my Bachelor's and Master's degrees from Shanghai Jiao Tong University, where I was supervised by Prof. Gongshen Liu.
 
-My research topic is **Understanding and Improving Large Language Models**. My primary methodology follows a diagnose-and-improve paradigm: I first analyze why LLMs fail, and then design targeted methods or architectural modules to enhance their capabilities.
+My research focuses on understanding and improving large language models. I follow a diagnose-and-improve paradigm: I first investigate the internal mechanisms underlying model behaviors and failures, and then use these insights to develop targeted methods and architectural designs that enhance model capabilities.
 
-
-# 📝 Research Interests
-
-My research aims to improve the capabilities of LLMs by analyzing their internal mechanisms, and leveraging this understanding to design more reliable and capable systems.
-
-**a) Analyzing and Diagnosing LLMs through Mechanistic Interpretability** 
-
-**b) Improving Capabilities of LLMs and Multimodal LLMs** 
+My research interests include mechanistic interpretability, large language models, and multimodal large language models. In particular, I am interested in understanding how model capabilities emerge, identifying the mechanisms behind their successes and failures, and translating mechanistic insights into more capable, reliable, and effective AI systems.
 
 
 # 📝 Publications
 
-
 - Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models
 
-  **Zeping Yu**, Yonatan Belinkov, Sophia Ananiadou [\[**EMNLP 2025 (Main)**\]](https://aclanthology.org/2025.emnlp-main.567.pdf)
+  **Zeping Yu**, Yonatan Belinkov, Sophia Ananiadou **EMNLP 2025 (Main)**
 
 - Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting
 
-  **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2025 (Findings)**\]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
+  **Zeping Yu**, Sophia Ananiadou **EMNLP 2025 (Findings)**
 
 - Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis
  
-  **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://aclanthology.org/2024.emnlp-main.193.pdf)
+  **Zeping Yu**, Sophia Ananiadou **EMNLP 2024 (Main)**
 
 - Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing
 
-  **Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2501.14457)
+  **Zeping Yu**, Sophia Ananiadou **preprint**
 
 - Neuron-Level Knowledge Attribution in Large Language Models
 
-**Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://aclanthology.org/2024.emnlp-main.191.pdf)
+  **Zeping Yu**, Sophia Ananiadou **EMNLP 2024 (Main)**
 
 - How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning
 
-  **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://aclanthology.org/2024.emnlp-main.192.pdf)
+  **Zeping Yu**, Sophia Ananiadou **EMNLP 2024 (Main)**
 
 - Understanding Multimodal LLMs: the Mechanistic Interpretability of LLaVA in VQA
 
-  **Zeping Yu**, Sophia Ananiadou
+  **Zeping Yu**, Sophia Ananiadou **preprint**
 
 - CodeCMR: Cross-modal retrieval for function-level binary source code matching
 
-  **Zeping Yu**, Wenxin Zheng, Jiaqi Wang, Qiyi Tang, Sen Nie, Shi Wu [\[**NeurIPS 2020**\]](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
+  **Zeping Yu**, Wenxin Zheng, Jiaqi Wang, Qiyi Tang, Sen Nie, Shi Wu **NeurIPS 2020**
 
 - Order matters: Semantic-aware neural networks for binary code similarity detection
 
-  **Zeping Yu**\*, Rui Cao\* , Qiyi Tang, Sen Nie, Junzhou Huang, Shi Wu [\[**AAAI 2020**\]](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf) 
+  **Zeping Yu**\*, Rui Cao\* , Qiyi Tang, Sen Nie, Junzhou Huang, Shi Wu **AAAI 2020**
 
 - Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation
 
-  **Zeping Yu**, Jianxun Lian, Ahmad Mahmoody, Gongshen Liu, Xing Xie [\[**IJCAI 2019**\]](https://www.ijcai.org/proceedings/2019/0585.pdf) 
-
-
-# 📖 Educations
-- *2023.09 - 2026.09*, PhD of Computer Science, University of Manchester.
-- *2017.09 - 2020.03*, Master of Computer Science, Shanghai Jiao Tong University.
-- *2013.09 - 2017.06*, Bachelor of Engineering, Shanghai Jiao Tong University.
+  **Zeping Yu**, Jianxun Lian, Ahmad Mahmoody, Gongshen Liu, Xing Xie **IJCAI 2019**
