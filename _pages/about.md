@@ -34,19 +34,6 @@ My research aims to improve the capabilities of LLMs by analyzing their internal
 **b) Improving Capabilities of LLMs and Multimodal LLMs** 
 
 
-# 🔥 News
-
-- *2026.02*: New survey: "Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models".
-
-- *2025.08*: Two papers are accepted by EMNLP 2025.
-
-- *2024.12*: Paper lists of [SAE](https://github.com/zepingyu0512/awesome-SAE) and [neuron](https://github.com/zepingyu0512/awesome-LLM-neuron) in LLMs.
-
-- *2024.09*: Three papers are accepted by EMNLP 2024.
-
-- *2024.04*: [Paper list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) of LLM interpretability.
-
-
 # 📝 Publications
 
 ### Enhancing LLM Capabilities through Mechanistic Understanding
