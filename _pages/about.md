@@ -20,9 +20,9 @@ redirect_from:
 
 # 📖 About Me
 
-I am a PhD researcher at the University of Manchester, supervised by Prof. Sophia Ananiadou. Previously, I worked as an NLP research engineer at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
+I am a PhD at the University of Manchester, supervised by Prof. Sophia Ananiadou. Previously, I worked as a research scientist at Tencent Technology in Shanghai. I received my Bachelor's and Master's degrees from Shanghai Jiao Tong University, supervised by Prof. Gongshen Liu.
 
-My research topic is **Understanding and Improving Large Language Models**. My primary methodology follows a diagnose-and-improve paradigm: I first analyze why LLMs fail, and then design targeted methods or architectural modules to enhance their capabilities, for example in latent multi-hop reasoning and catastrophic forgetting.
+My research topic is **Understanding and Improving Large Language Models**. My primary methodology follows a diagnose-and-improve paradigm: I first analyze why LLMs fail, and then design targeted methods or architectural modules to enhance their capabilities.
 
 
 # 📝 Research Interests
@@ -31,21 +31,7 @@ My research aims to improve the capabilities of LLMs by analyzing their internal
 
 **a) Analyzing and Diagnosing LLMs through Mechanistic Interpretability** 
 
-  - VQALens: Diagnosing errors, shortcuts, and hallucinations in MLLMs. [[Preprint]]()
-
-- Neuron-Level Attribution: Identifying important neurons for LLM diagnosis. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.191.pdf)
-  
-- Head-Level Attribution: Understanding how LLMs perform in-context learning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.192.pdf)
-
 **b) Improving Capabilities of LLMs and Multimodal LLMs** 
-  
-- Back-Attention Module: Improving latent multi-hop reasoning in LLMs. [[EMNLP 2025]](https://aclanthology.org/2025.emnlp-main.567.pdf)
-     
-- Locate-then-Merge: Mitigating catastrophic forgetting in MLLMs. [[EMNLP 2025]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
-
-- Locate-then-Prune: Improving arithmetic reasoning through model pruning. [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.193.pdf)
-
-- Locate-then-Edit: Reducing gender bias in LLMs via model editing. [[Preprint]](https://arxiv.org/pdf/2501.14457)
 
 
 # 🔥 News
