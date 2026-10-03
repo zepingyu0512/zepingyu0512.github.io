@@ -36,61 +36,46 @@ My research aims to improve the capabilities of LLMs by analyzing their internal
 
 # 📝 Publications
 
-### Enhancing LLM Capabilities through Mechanistic Understanding
 
----
+- Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models
 
-\[P1\] Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models
+  **Zeping Yu**, Yonatan Belinkov, Sophia Ananiadou [\[**EMNLP 2025 (Main)**\]](https://aclanthology.org/2025.emnlp-main.567.pdf)
 
-- **Zeping Yu**, Yonatan Belinkov, Sophia Ananiadou [\[**EMNLP 2025 (Main)**\]](https://aclanthology.org/2025.emnlp-main.567.pdf)
+- Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting
 
-\[P2\] Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting
+  **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2025 (Findings)**\]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
 
-- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2025 (Findings)**\]](https://aclanthology.org/2025.findings-emnlp.372.pdf)
+- Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis
+ 
+  **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://aclanthology.org/2024.emnlp-main.193.pdf)
 
-\[P3\] Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis
+- Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing
 
-- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://aclanthology.org/2024.emnlp-main.193.pdf)
+  **Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2501.14457)
 
-\[P4\] Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing
+- Neuron-Level Knowledge Attribution in Large Language Models
 
-- **Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2501.14457)
+**Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://aclanthology.org/2024.emnlp-main.191.pdf)
 
----
+- How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning
 
-### Understanding and Diagnosing LLMs through Mechanistic Interpretability
+  **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://aclanthology.org/2024.emnlp-main.192.pdf)
 
----
+- Understanding Multimodal LLMs: the Mechanistic Interpretability of LLaVA in VQA
 
-\[P5\] Neuron-Level Knowledge Attribution in Large Language Models
+  **Zeping Yu**, Sophia Ananiadou
 
-- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://aclanthology.org/2024.emnlp-main.191.pdf)
+- CodeCMR: Cross-modal retrieval for function-level binary source code matching
 
-\[P6\] How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning
+  **Zeping Yu**, Wenxin Zheng, Jiaqi Wang, Qiyi Tang, Sen Nie, Shi Wu [\[**NeurIPS 2020**\]](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
 
-- **Zeping Yu**, Sophia Ananiadou [\[**EMNLP 2024 (Main)**\]](https://aclanthology.org/2024.emnlp-main.192.pdf)
+- Order matters: Semantic-aware neural networks for binary code similarity detection
 
-\[P7\] Understanding Multimodal LLMs: the Mechanistic Interpretability of LLaVA in VQA
+  **Zeping Yu**\*, Rui Cao\* , Qiyi Tang, Sen Nie, Junzhou Huang, Shi Wu [\[**AAAI 2020**\]](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf) 
 
-- **Zeping Yu**, Sophia Ananiadou [\[**preprint**\]](https://arxiv.org/pdf/2411.10950)
+- Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation
 
----
-
-### Earlier Work in Deep Learning
-
----
-
-\[E1\] CodeCMR: Cross-modal retrieval for function-level binary source code matching
-
-- **Zeping Yu**, Wenxin Zheng, Jiaqi Wang, Qiyi Tang, Sen Nie, Shi Wu [\[**NeurIPS 2020**\]](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf) 
-
-\[E2\] Order matters: Semantic-aware neural networks for binary code similarity detection
-
-- **Zeping Yu**\*, Rui Cao\* , Qiyi Tang, Sen Nie, Junzhou Huang, Shi Wu [\[**AAAI 2020**\]](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf) 
-
-\[E3\] Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation
-
-- **Zeping Yu**, Jianxun Lian, Ahmad Mahmoody, Gongshen Liu, Xing Xie [\[**IJCAI 2019**\]](https://www.ijcai.org/proceedings/2019/0585.pdf) 
+  **Zeping Yu**, Jianxun Lian, Ahmad Mahmoody, Gongshen Liu, Xing Xie [\[**IJCAI 2019**\]](https://www.ijcai.org/proceedings/2019/0585.pdf) 
 
 
 # 📖 Educations
