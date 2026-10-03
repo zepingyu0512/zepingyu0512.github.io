@@ -22,9 +22,7 @@ redirect_from:
 
 I received my PhD in Computer Science from the University of Manchester, supervised by Prof. Sophia Ananiadou. Previously, I worked as a Research Scientist at Tencent in Shanghai. I received both my Bachelor's and Master's degrees from Shanghai Jiao Tong University, where I was supervised by Prof. Gongshen Liu.
 
-My research focuses on understanding and improving large language models. I follow a diagnose-and-improve paradigm: I first investigate the internal mechanisms underlying model behaviors and failures, and then use these insights to develop targeted methods and architectural designs that enhance model capabilities.
-
-My research interests include mechanistic interpretability, large language models, and multimodal large language models. In particular, I am interested in understanding how model capabilities emerge, identifying the mechanisms behind their successes and failures, and translating mechanistic insights into more capable, reliable, and effective AI systems.
+My research focuses on understanding and improving large language models. I follow a diagnose-and-improve paradigm. My research interests include mechanistic interpretability, large language models, and multimodal large language models. In particular, I am interested in understanding how model capabilities emerge, identifying the mechanisms behind their successes and failures, and translating mechanistic insights into more capable, reliable, and effective AI systems.
 
 
 # 📝 Publications
